@@ -1,0 +1,1693 @@
+NFL data from ESPN - 09/25/2020 - https://www.espn.com/nfl/teams								
+NAME	TEAM	POS	JERSEY	AGE	HT	WT	EXP	COLLEGE
+Aaron Brewer	Arizona Cardinals	LS	46	30	"6' 5"""	232 lbs	9	San Diego State
+Andy Isabella	Arizona Cardinals	WR	17	23	"5' 9"""	188 lbs	2	Massachusetts
+Andy Lee	Arizona Cardinals	P	4	38	"6' 1"""	185 lbs	17	Pittsburgh
+Angelo Blackson	Arizona Cardinals	DE	96	27	"6' 4"""	319 lbs	6	Auburn
+Brett Hundley	Arizona Cardinals	QB	7	27	"6' 3"""	226 lbs	6	UCLA
+Budda Baker	Arizona Cardinals	S	32	24	"5' 10"""	195 lbs	4	Washington
+Byron Murphy Jr.	Arizona Cardinals	CB	33	22	"5' 11"""	190 lbs	2	Washington
+Chandler Jones	Arizona Cardinals	LB	55	30	"6' 5"""	265 lbs	9	Syracuse
+Charles Washington	Arizona Cardinals	S	28	27	"5' 10"""	192 lbs	4	Fresno State
+Chase Edmonds	Arizona Cardinals	RB	29	24	"5' 9"""	210 lbs	3	Fordham
+Chris Banjo	Arizona Cardinals	S	31	30	"5' 10"""	207 lbs	7	SMU
+Chris Streveler	Arizona Cardinals	QB	15	25	"6' 1"""	216 lbs	1	South Dakota
+Christian Kirk	Arizona Cardinals	WR	13	23	"5' 11"""	200 lbs	3	Texas A&M
+Corey Peters	Arizona Cardinals	DT	98	32	"6' 3"""	335 lbs	11	Kentucky
+Curtis Riley	Arizona Cardinals	S	35	28	"6' 0"""	190 lbs	6	Fresno State
+D.J. Humphries	Arizona Cardinals	OT	74	26	"6' 5"""	307 lbs	6	Florida
+Dan Arnold	Arizona Cardinals	TE	85	25	"6' 6"""	220 lbs	4	Wisconsin-Platteville
+Darrell Daniels	Arizona Cardinals	TE	81	25	"6' 3"""	256 lbs	4	Washington
+DeAndre Hopkins	Arizona Cardinals	WR	10	28	"6' 1"""	212 lbs	7	Clemson
+Deionte Thompson	Arizona Cardinals	S	22	23	"6' 1"""	195 lbs	2	Alabama
+Dennis Gardeck	Arizona Cardinals	LB	45	26	"6' 0"""	232 lbs	3	Sioux Falls
+Devon Kennard	Arizona Cardinals	LB	42	29	"6' 3"""	256 lbs	7	USC
+De'Vondre Campbell	Arizona Cardinals	LB	59	27	"6' 3"""	232 lbs	5	Minnesota
+Dre Kirkpatrick	Arizona Cardinals	CB	20	30	"6' 2"""	190 lbs	9	Alabama
+Eno Benjamin	Arizona Cardinals	RB	26	21	"5' 9"""	207 lbs	R	Arizona State
+Ezekiel Turner	Arizona Cardinals	LB	47	24	"6' 2"""	214 lbs	3	Washington
+Haason Reddick	Arizona Cardinals	LB	43	26	"6' 1"""	235 lbs	4	Temple
+Isaiah Simmons	Arizona Cardinals	LB	48	22	"6' 4"""	238 lbs	R	Clemson
+J.R. Sweezy	Arizona Cardinals	G	64	31	"6' 5"""	310 lbs	9	North Carolina State
+Jordan Hicks	Arizona Cardinals	LB	58	28	"6' 1"""	236 lbs	6	Texas
+Jordan Phillips	Arizona Cardinals	DE	97	28	"6' 6"""	341 lbs	6	Oklahoma
+Jordan Thomas	Arizona Cardinals	TE	80	24	"6' 5"""	277 lbs	3	Mississippi State
+Josh Jones	Arizona Cardinals	OT	79	23	"6' 5"""	319 lbs	R	Houston
+Joshua Miles	Arizona Cardinals	OT	66	24	"6' 5"""	314 lbs	2	Morgan State
+Justin Murray	Arizona Cardinals	OT	71	27	"6' 5"""	315 lbs	3	Cincinnati
+Justin Pugh	Arizona Cardinals	G	67	30	"6' 5"""	311 lbs	8	Syracuse
+KeeSean Johnson	Arizona Cardinals	WR	19	23	"6' 1"""	201 lbs	2	Fresno State
+Kelvin Beachum	Arizona Cardinals	OT	68	31	"6' 3"""	308 lbs	9	SMU
+Kenyan Drake	Arizona Cardinals	RB	41	26	"6' 1"""	211 lbs	5	Alabama
+Kevin Peterson	Arizona Cardinals	CB	27	26	"5' 11"""	185 lbs	4	Oklahoma State
+Kyler Murray	Arizona Cardinals	QB	1	23	"5' 10"""	207 lbs	2	Oklahoma
+Kylie Fitts	Arizona Cardinals	LB	49	25	"6' 4"""	260 lbs	2	Utah
+Lamont Gaillard	Arizona Cardinals	C	53	24	"6' 3"""	305 lbs	2	Georgia
+Larry Fitzgerald	Arizona Cardinals	WR	11	37	"6' 3"""	218 lbs	17	Pittsburgh
+Leki Fotu	Arizona Cardinals	DT	95	22	"6' 5"""	330 lbs	R	Utah
+Mason Cole	Arizona Cardinals	C	52	24	"6' 5"""	292 lbs	3	Michigan
+Max Garcia	Arizona Cardinals	G	73	28	"6' 4"""	309 lbs	6	Florida
+Patrick Peterson	Arizona Cardinals	CB	21	30	"6' 1"""	203 lbs	10	LSU
+Rashard Lawrence	Arizona Cardinals	DT	92	21	"6' 2"""	308 lbs	R	LSU
+Tanner Vallejo	Arizona Cardinals	LB	51	25	"6' 1"""	230 lbs	4	Boise State
+Trent Sherfield	Arizona Cardinals	WR	16	24	"6' 1"""	219 lbs	3	Vanderbilt
+Zach Allen	Arizona Cardinals	DE	94	23	"6' 4"""	281 lbs	2	Boston College
+Zane Gonzalez	Arizona Cardinals	PK	5	25	"6' 0"""	202 lbs	4	Arizona State
+A.J. Terrell	Atlanta Falcons	CB	24	22	"6' 1"""	195 lbs	R	Clemson
+Alex Mack	Atlanta Falcons	C	51	34	"6' 4"""	311 lbs	12	California
+Allen Bailey	Atlanta Falcons	DE	93	31	"6' 3"""	288 lbs	10	Miami (FL)
+Blidi Wreh-Wilson	Atlanta Falcons	CB	33	30	"6' 1"""	190 lbs	7	Connecticut
+Brandon Powell	Atlanta Falcons	WR	15	25	"5' 8"""	181 lbs	3	Florida
+Brian Hill	Atlanta Falcons	RB	23	24	"6' 1"""	219 lbs	4	Wyoming
+Calvin Ridley	Atlanta Falcons	WR	18	25	"6' 1"""	190 lbs	3	Alabama
+Charles Harris	Atlanta Falcons	DE	92	25	"6' 3"""	252 lbs	4	Missouri
+Chris Lindstrom	Atlanta Falcons	G	63	23	"6' 4"""	307 lbs	2	Boston College
+Christian Blake	Atlanta Falcons	WR	13	24	"6' 1"""	181 lbs	2	Northern Illinois
+Damontae Kazee	Atlanta Falcons	S	27	27	"5' 11"""	174 lbs	4	San Diego State
+Dante Fowler Jr.	Atlanta Falcons	DE	56	26	"6' 3"""	255 lbs	6	Florida
+Darqueze Dennard	Atlanta Falcons	CB	34	28	"5' 11"""	205 lbs	7	Michigan State
+Deadrin Senat	Atlanta Falcons	DT	94	26	"6' 1"""	305 lbs	3	South Florida
+Deion Jones	Atlanta Falcons	LB	45	25	"6' 1"""	222 lbs	5	LSU
+Foyesade Oluokun	Atlanta Falcons	LB	54	25	"6' 2"""	215 lbs	3	Yale
+Grady Jarrett	Atlanta Falcons	DT	97	27	"6' 0"""	305 lbs	6	Clemson
+Hayden Hurst	Atlanta Falcons	TE	81	27	"6' 4"""	260 lbs	3	South Carolina
+Isaiah Oliver	Atlanta Falcons	CB	26	23	"6' 0"""	210 lbs	3	Colorado
+Ito Smith	Atlanta Falcons	RB	25	25	"5' 9"""	195 lbs	3	Southern Miss
+Jacob Tuioti-Mariner	Atlanta Falcons	DT	91	24	"6' 2"""	285 lbs	2	UCLA
+Jaeden Graham	Atlanta Falcons	TE	87	24	"6' 4"""	250 lbs	2	Yale
+Jake Matthews	Atlanta Falcons	OT	70	28	"6' 5"""	309 lbs	7	Texas A&M
+James Carpenter	Atlanta Falcons	G	77	31	"6' 5"""	321 lbs	10	Alabama
+Jaylinn Hawkins	Atlanta Falcons	S	32	23	"6' 1"""	208 lbs	R	California
+John Cominsky	Atlanta Falcons	DE	50	24	"6' 5"""	285 lbs	2	Charleston Univ
+John Wetzel	Atlanta Falcons	G	75	29	"6' 7"""	328 lbs	5	Boston College
+Josh Harris	Atlanta Falcons	LS	47	31	"6' 1"""	224 lbs	9	Auburn
+Julio Jones	Atlanta Falcons	WR	11	31	"6' 3"""	220 lbs	10	Alabama
+Justin McCray	Atlanta Falcons	G	65	28	"6' 3"""	310 lbs	4	UCF
+Kaleb McGary	Atlanta Falcons	OT	76	25	"6' 6"""	306 lbs	2	Washington
+Keanu Neal	Atlanta Falcons	S	22	25	"6' 0"""	211 lbs	5	Florida
+Keith Smith	Atlanta Falcons	FB	40	28	"6' 0"""	240 lbs	7	San Jose State
+Kendall Sheffield	Atlanta Falcons	CB	20	24	"5' 10"""	212 lbs	2	Ohio State
+LaRoy Reynolds	Atlanta Falcons	LB	59	29	"6' 1"""	243 lbs	8	Virginia
+Luke Stocker	Atlanta Falcons	TE	88	32	"6' 5"""	253 lbs	10	Tennessee
+Marlon Davidson	Atlanta Falcons	DT	90	22	"6' 3"""	278 lbs	R	Auburn
+Matt Gono	Atlanta Falcons	OT	73	24	"6' 4"""	305 lbs	3	--
+Matt Hennessy	Atlanta Falcons	C	61	22	"6' 4"""	295 lbs	R	Temple
+Matt Ryan	Atlanta Falcons	QB	2	35	"6' 4"""	217 lbs	13	Boston College
+Matt Schaub	Atlanta Falcons	QB	8	39	"6' 6"""	245 lbs	17	Virginia
+Mykal Walker	Atlanta Falcons	LB	43	23	"6' 3"""	230 lbs	R	Fresno State
+Olamide Zaccheaus	Atlanta Falcons	WR	17	23	"5' 8"""	193 lbs	2	Virginia
+Qadree Ollison	Atlanta Falcons	RB	30	24	"6' 1"""	232 lbs	2	Pittsburgh
+Ricardo Allen	Atlanta Falcons	S	37	28	"5' 9"""	186 lbs	6	Purdue
+Russell Gage	Atlanta Falcons	WR	83	24	"6' 0"""	184 lbs	3	LSU
+Sharrod Neasman	Atlanta Falcons	S	41	28	"6' 0"""	198 lbs	5	Florida Atlantic
+Sterling Hofrichter	Atlanta Falcons	P	4	23	"5' 10"""	196 lbs	R	Syracuse
+Steven Means	Atlanta Falcons	DE	55	30	"6' 3"""	263 lbs	6	Buffalo
+Takkarist McKinley	Atlanta Falcons	DE	98	24	"6' 2"""	250 lbs	4	UCLA
+Todd Gurley II	Atlanta Falcons	RB	21	26	"6' 1"""	224 lbs	6	Georgia
+Tyeler Davison	Atlanta Falcons	DT	96	28	"6' 2"""	309 lbs	6	Fresno State
+Younghoe Koo	Atlanta Falcons	PK	7	26	"5' 10"""	195 lbs	2	Georgia Southern
+Anthony Averett	Baltimore Ravens	CB	23	25	"5' 11"""	184 lbs	3	Alabama
+Anthony Levine Sr.	Baltimore Ravens	S	41	33	"5' 11"""	207 lbs	9	Tennessee State
+Ben Bredeson	Baltimore Ravens	G	67	22	"6' 5"""	315 lbs	R	Michigan
+Ben Powers	Baltimore Ravens	G	72	23	"6' 4"""	310 lbs	2	Oklahoma
+Bradley Bozeman	Baltimore Ravens	G	77	25	"6' 3"""	317 lbs	3	Alabama
+Brandon Williams	Baltimore Ravens	DT	98	31	"6' 1"""	336 lbs	8	Missouri Southern State
+Broderick Washington	Baltimore Ravens	DT	96	23	"6' 2"""	305 lbs	R	Texas Tech
+Calais Campbell	Baltimore Ravens	DE	93	34	"6' 8"""	300 lbs	13	Miami (FL)
+Chris Board	Baltimore Ravens	LB	49	25	"6' 2"""	237 lbs	3	North Dakota State
+Chris Moore	Baltimore Ravens	WR	10	27	"6' 1"""	200 lbs	5	Cincinnati
+Chuck Clark	Baltimore Ravens	S	36	25	"6' 0"""	205 lbs	4	Virginia Tech
+D.J. Fluker	Baltimore Ravens	G	70	29	"6' 5"""	342 lbs	8	Alabama
+Derek Wolfe	Baltimore Ravens	DE	95	30	"6' 5"""	285 lbs	9	Cincinnati
+DeShon Elliott	Baltimore Ravens	S	32	23	"6' 1"""	210 lbs	3	Texas
+Devin Duvernay	Baltimore Ravens	WR	13	23	"5' 11"""	200 lbs	R	Texas
+Geno Stone	Baltimore Ravens	S	26	21	"5' 11"""	207 lbs	R	Iowa
+Gus Edwards	Baltimore Ravens	RB	35	25	"6' 1"""	238 lbs	3	Rutgers
+J.K. Dobbins	Baltimore Ravens	RB	27	21	"5' 10"""	212 lbs	R	Ohio State
+James Proche II	Baltimore Ravens	WR	11	24	"5' 11"""	201 lbs	R	SMU
+Jaylon Ferguson	Baltimore Ravens	LB	45	24	"6' 5"""	270 lbs	2	Louisiana Tech
+Jihad Ward	Baltimore Ravens	DE	53	26	"6' 5"""	287 lbs	5	Illinois
+Jimmy Smith	Baltimore Ravens	CB	22	32	"6' 2"""	210 lbs	10	Colorado
+Justice Hill	Baltimore Ravens	RB	43	22	"5' 10"""	200 lbs	2	Oklahoma State
+Justin Ellis	Baltimore Ravens	DT	71	29	"6' 2"""	350 lbs	7	Louisiana Tech
+Justin Madubuike	Baltimore Ravens	DT	92	22	"6' 3"""	300 lbs	R	Texas A&M
+Justin Tucker	Baltimore Ravens	PK	9	30	"6' 1"""	183 lbs	9	Texas
+L.J. Fort	Baltimore Ravens	LB	58	30	"6' 0"""	232 lbs	6	Northern Iowa
+Lamar Jackson	Baltimore Ravens	QB	8	23	"6' 2"""	212 lbs	3	Louisville
+Malik Harrison	Baltimore Ravens	LB	40	22	"6' 3"""	247 lbs	R	Ohio State
+Marcus Peters	Baltimore Ravens	CB	24	27	"6' 0"""	197 lbs	6	Washington
+Mark Andrews	Baltimore Ravens	TE	89	25	"6' 5"""	256 lbs	3	Oklahoma
+Mark Ingram II	Baltimore Ravens	RB	21	30	"5' 9"""	210 lbs	10	Alabama
+Marlon Humphrey	Baltimore Ravens	CB	44	24	"6' 0"""	197 lbs	4	Alabama
+Marquise Brown	Baltimore Ravens	WR	15	23	"5' 9"""	180 lbs	2	Oklahoma
+Matt Skura	Baltimore Ravens	C	68	27	"6' 3"""	313 lbs	4	Duke
+Matthew Judon	Baltimore Ravens	LB	99	28	"6' 3"""	261 lbs	5	Grand Valley State
+Miles Boykin	Baltimore Ravens	WR	80	23	"6' 4"""	220 lbs	2	Notre Dame
+Morgan Cox	Baltimore Ravens	LS	46	34	"6' 4"""	235 lbs	11	Tennessee
+Nick Boyle	Baltimore Ravens	TE	86	27	"6' 4"""	270 lbs	6	Delaware
+Orlando Brown Jr.	Baltimore Ravens	OT	78	24	"6' 8"""	355 lbs	3	Oklahoma
+Otaro Alaka	Baltimore Ravens	LB	50	24	"6' 3"""	239 lbs	2	Texas A&M
+Patrick Mekari	Baltimore Ravens	G	65	23	"6' 4"""	308 lbs	2	California
+Patrick Queen	Baltimore Ravens	LB	48	21	"6' 0"""	232 lbs	R	LSU
+Patrick Ricard	Baltimore Ravens	FB	42	26	"6' 3"""	303 lbs	4	Maine
+Pernell McPhee	Baltimore Ravens	LB	90	31	"6' 3"""	269 lbs	10	Mississippi State
+Robert Griffin III	Baltimore Ravens	QB	3	30	"6' 2"""	213 lbs	8	Baylor
+Ronnie Stanley	Baltimore Ravens	OT	79	26	"6' 6"""	315 lbs	5	Notre Dame
+Sam Koch	Baltimore Ravens	P	4	38	"6' 1"""	222 lbs	15	Nebraska
+Tavon Young	Baltimore Ravens	CB	25	26	"5' 9"""	185 lbs	5	Temple
+Trace McSorley	Baltimore Ravens	QB	7	25	"6' 0"""	202 lbs	2	Penn State
+Tyre Phillips	Baltimore Ravens	G	74	23	"6' 5"""	330 lbs	R	Mississippi State
+Tyus Bowser	Baltimore Ravens	LB	54	25	"6' 3"""	242 lbs	4	Houston
+Willie Snead IV	Baltimore Ravens	WR	83	27	"5' 11"""	200 lbs	6	Ball State
+A.J. Klein	Buffalo Bills	LB	54	29	"6' 1"""	240 lbs	8	Iowa State
+AJ Epenesa	Buffalo Bills	DE	57	22	"6' 6"""	280 lbs	R	Iowa
+Andre Roberts	Buffalo Bills	WR	18	32	"5' 11"""	195 lbs	11	Citadel
+Brian Winters	Buffalo Bills	G	66	29	"6' 4"""	320 lbs	8	Kent State
+Cam Lewis	Buffalo Bills	CB	47	23	"5' 9"""	183 lbs	1	Buffalo
+Cody Ford	Buffalo Bills	OT	70	23	"6' 3"""	329 lbs	2	Oklahoma
+Cole Beasley	Buffalo Bills	WR	11	31	"5' 8"""	174 lbs	9	SMU
+Corey Bojorquez	Buffalo Bills	P	9	24	"6' 0"""	208 lbs	3	New Mexico
+Darryl Johnson	Buffalo Bills	DE	92	23	"6' 6"""	253 lbs	2	North Carolina A&T
+Daryl Williams	Buffalo Bills	OT	75	28	"6' 6"""	330 lbs	6	Oklahoma
+Dawson Knox	Buffalo Bills	TE	88	23	"6' 4"""	254 lbs	2	Ole Miss
+Dean Marlowe	Buffalo Bills	S	31	28	"6' 1"""	208 lbs	4	James Madison
+Del'Shawn Phillips	Buffalo Bills	LB	43	23	"6' 2"""	230 lbs	1	Illinois
+Devin Singletary	Buffalo Bills	RB	26	23	"5' 7"""	203 lbs	2	Florida Atlantic
+Dion Dawkins	Buffalo Bills	OT	73	26	"6' 5"""	320 lbs	4	Temple
+Ed Oliver	Buffalo Bills	DT	91	22	"6' 1"""	287 lbs	2	Houston
+Gabriel Davis	Buffalo Bills	WR	13	21	"6' 2"""	210 lbs	R	UCF
+Harrison Phillips	Buffalo Bills	DT	99	24	"6' 3"""	307 lbs	3	Stanford
+Ike Boettger	Buffalo Bills	G	65	25	"6' 6"""	313 lbs	3	Iowa
+Isaiah McKenzie	Buffalo Bills	WR	19	25	"5' 8"""	173 lbs	4	Georgia
+Jake Fromm	Buffalo Bills	QB	10	22	"6' 2"""	215 lbs	R	Georgia
+Jaquan Johnson	Buffalo Bills	S	46	24	"5' 10"""	191 lbs	2	Miami (FL)
+Jerry Hughes	Buffalo Bills	DE	55	32	"6' 2"""	254 lbs	11	TCU
+John Brown	Buffalo Bills	WR	15	30	"5' 11"""	178 lbs	7	Pittsburg State
+Jordan Poyer	Buffalo Bills	S	21	29	"6' 0"""	191 lbs	8	Oregon State
+Josh Allen	Buffalo Bills	QB	17	24	"6' 5"""	237 lbs	3	Wyoming
+Lee Smith	Buffalo Bills	TE	85	32	"6' 6"""	265 lbs	10	Marshall
+Levi Wallace	Buffalo Bills	CB	39	25	"6' 0"""	179 lbs	3	Alabama
+Mario Addison	Buffalo Bills	DE	97	33	"6' 3"""	260 lbs	10	Troy
+Matt Barkley	Buffalo Bills	QB	5	30	"6' 2"""	234 lbs	8	USC
+Matt Milano	Buffalo Bills	LB	58	26	"6' 0"""	223 lbs	4	Boston College
+Micah Hyde	Buffalo Bills	S	23	29	"6' 0"""	197 lbs	8	Iowa
+Mitch Morse	Buffalo Bills	C	60	28	"6' 6"""	305 lbs	6	Missouri
+Quinton Jefferson	Buffalo Bills	DT	90	27	"6' 4"""	291 lbs	5	Maryland
+Quinton Spain	Buffalo Bills	G	67	29	"6' 4"""	330 lbs	6	West Virginia
+Reggie Gilliam	Buffalo Bills	TE	86	23	"6' 0"""	244 lbs	R	Toledo
+Reid Ferguson	Buffalo Bills	LS	69	26	"6' 2"""	235 lbs	4	LSU
+Ryan Bates	Buffalo Bills	OT	71	23	"6' 4"""	302 lbs	2	Penn State
+Siran Neal	Buffalo Bills	CB	33	26	"6' 0"""	206 lbs	3	Jacksonville State
+Stefon Diggs	Buffalo Bills	WR	14	26	"6' 0"""	191 lbs	6	Maryland
+T.J. Yeldon	Buffalo Bills	RB	22	26	"6' 1"""	223 lbs	6	Alabama
+Taiwan Jones	Buffalo Bills	RB	25	32	"6' 0"""	195 lbs	10	Eastern Washington
+Taron Johnson	Buffalo Bills	CB	24	24	"5' 11"""	192 lbs	3	Weber State
+Tre'Davious White	Buffalo Bills	CB	27	25	"5' 11"""	192 lbs	4	LSU
+Tremaine Edmunds	Buffalo Bills	LB	49	22	"6' 5"""	250 lbs	3	Virginia Tech
+Trent Murphy	Buffalo Bills	DE	93	29	"6' 6"""	260 lbs	7	Stanford
+Ty Nsekhe	Buffalo Bills	OT	77	34	"6' 8"""	330 lbs	6	Texas State
+Tyler Bass	Buffalo Bills	PK	2	23	"5' 10"""	183 lbs	R	Georgia Southern
+Tyler Kroft	Buffalo Bills	TE	81	27	"6' 6"""	252 lbs	6	Rutgers
+Tyler Matakevich	Buffalo Bills	LB	44	27	"6' 1"""	235 lbs	5	Temple
+Tyrel Dodson	Buffalo Bills	LB	53	22	"6' 0"""	237 lbs	1	Texas A&M
+Vernon Butler	Buffalo Bills	DT	94	26	"6' 4"""	330 lbs	5	Louisiana Tech
+Zack Moss	Buffalo Bills	RB	20	22	"5' 9"""	205 lbs	R	Utah
+Adarius Taylor	Carolina Panthers	LB	57	30	"6' 0"""	230 lbs	6	Florida Atlantic
+Alex Armah	Carolina Panthers	FB	40	26	"6' 2"""	255 lbs	4	West Georgia
+Brandon Zylstra	Carolina Panthers	WR	16	27	"6' 2"""	215 lbs	3	Concordia College (MN)
+Bravvion Roy	Carolina Panthers	DT	93	23	"6' 1"""	330 lbs	R	Baylor
+Brian Burns	Carolina Panthers	DE	53	22	"6' 5"""	250 lbs	2	Florida State
+Chris Manhertz	Carolina Panthers	TE	82	28	"6' 6"""	255 lbs	5	Canisius
+Chris Reed	Carolina Panthers	G	64	28	"6' 4"""	320 lbs	5	Minnesota State-Mankato
+Colin Thompson	Carolina Panthers	TE	86	26	"6' 4"""	255 lbs	1	Temple
+Corn Elder	Carolina Panthers	CB	29	25	"5' 10"""	185 lbs	4	Miami (FL)
+Curtis Samuel	Carolina Panthers	WR	10	24	"5' 11"""	195 lbs	4	Ohio State
+Dennis Daley	Carolina Panthers	G	65	24	"6' 6"""	325 lbs	2	South Carolina
+Derrick Brown	Carolina Panthers	DT	95	22	"6' 5"""	318 lbs	R	Auburn
+DJ Moore	Carolina Panthers	WR	12	23	"6' 0"""	210 lbs	3	Maryland
+Donte Jackson	Carolina Panthers	CB	26	24	"5' 10"""	180 lbs	3	LSU
+Efe Obada	Carolina Panthers	DE	94	28	"6' 6"""	265 lbs	3	--
+Greg Little	Carolina Panthers	OT	74	22	"6' 5"""	310 lbs	2	Ole Miss
+Ian Thomas	Carolina Panthers	TE	80	24	"6' 4"""	260 lbs	3	Indiana
+J.J. Jansen	Carolina Panthers	LS	44	34	"6' 2"""	235 lbs	13	Notre Dame
+Jeremy Chinn	Carolina Panthers	S	21	22	"6' 3"""	220 lbs	R	Southern Illinois
+Jermaine Carter	Carolina Panthers	LB	56	25	"6' 1"""	225 lbs	3	Maryland
+Joey Slye	Carolina Panthers	PK	4	24	"5' 11"""	213 lbs	2	Virginia Tech
+John Miller	Carolina Panthers	G	67	27	"6' 3"""	315 lbs	6	Louisville
+Joseph Charlton	Carolina Panthers	P	3	23	"6' 5"""	190 lbs	R	South Carolina
+Julian Stanford	Carolina Panthers	LB	46	30	"6' 1"""	230 lbs	7	Wagner
+Juston Burris	Carolina Panthers	S	31	27	"6' 0"""	210 lbs	5	North Carolina State
+Kawann Short	Carolina Panthers	DT	99	31	"6' 3"""	315 lbs	8	Purdue
+Marquis Haynes	Carolina Panthers	DE	98	26	"6' 2"""	235 lbs	3	Ole Miss
+Matt Paradis	Carolina Panthers	C	61	30	"6' 3"""	300 lbs	6	Boise State
+Michael Schofield	Carolina Panthers	G	75	29	"6' 6"""	300 lbs	7	Michigan
+Mike Davis	Carolina Panthers	RB	28	27	"5' 9"""	220 lbs	6	South Carolina
+Myles Hartsfield	Carolina Panthers	CB	38	23	"5' 11"""	210 lbs	R	Ole Miss
+P.J. Walker	Carolina Panthers	QB	6	25	"5' 11"""	212 lbs	1	Temple
+Pharoh Cooper	Carolina Panthers	WR	14	25	"5' 11"""	210 lbs	5	South Carolina
+Rasul Douglas	Carolina Panthers	CB	24	25	"6' 2"""	209 lbs	4	West Virginia
+Robby Anderson	Carolina Panthers	WR	11	27	"6' 3"""	190 lbs	5	Temple
+Russell Okung	Carolina Panthers	OT	76	31	"6' 5"""	310 lbs	11	Oklahoma State
+Sam Franklin	Carolina Panthers	S	42	24	"6' 3"""	210 lbs	R	Temple
+Seth Roberts	Carolina Panthers	WR	15	29	"6' 2"""	195 lbs	6	West Alabama
+Shaq Thompson	Carolina Panthers	LB	54	26	"6' 0"""	230 lbs	6	Washington
+Shareef Miller	Carolina Panthers	DE	55	23	"6' 4"""	255 lbs	2	Penn State
+Stantley Thomas-Oliver III	Carolina Panthers	CB	23	22	"6' 0"""	190 lbs	R	Florida International
+Stephen Weatherly	Carolina Panthers	DE	91	26	"6' 5"""	265 lbs	5	Vanderbilt
+Tahir Whitehead	Carolina Panthers	LB	52	30	"6' 1"""	240 lbs	9	Temple
+Taylor Moton	Carolina Panthers	OT	72	26	"6' 5"""	325 lbs	4	Western Michigan
+Teddy Bridgewater	Carolina Panthers	QB	5	27	"6' 2"""	215 lbs	7	Louisville
+Tre Boston	Carolina Panthers	S	33	28	"6' 1"""	205 lbs	7	North Carolina
+Trent Scott	Carolina Panthers	OT	68	26	"6' 5"""	320 lbs	3	Grambling State
+Trenton Cannon	Carolina Panthers	RB	36	26	"5' 11"""	185 lbs	3	Virginia State
+Troy Pride Jr.	Carolina Panthers	CB	25	22	"5' 11"""	195 lbs	R	Notre Dame
+Tyler Larsen	Carolina Panthers	C	69	29	"6' 4"""	325 lbs	5	Utah State
+Will Grier	Carolina Panthers	QB	7	25	"6' 1"""	220 lbs	2	West Virginia
+Yetur Gross-Matos	Carolina Panthers	DE	97	22	"6' 5"""	265 lbs	R	Penn State
+Zach Kerr	Carolina Panthers	DT	92	30	"6' 2"""	334 lbs	7	Delaware
+Akiem Hicks	Chicago Bears	DT	96	30	"6' 4"""	347 lbs	9	U Regina ca
+Alex Bars	Chicago Bears	G	64	25	"6' 5"""	316 lbs	2	Notre Dame
+Allen Robinson II	Chicago Bears	WR	12	27	"6' 2"""	216 lbs	7	Penn State
+Anthony Miller	Chicago Bears	WR	17	25	"5' 11"""	199 lbs	3	Memphis
+Arlington Hambright	Chicago Bears	G	71	24	"6' 5"""	315 lbs	R	Colorado
+Barkevious Mingo	Chicago Bears	LB	50	29	"6' 5"""	238 lbs	8	LSU
+Bilal Nichols	Chicago Bears	NT	98	24	"6' 4"""	299 lbs	3	Delaware
+Bobby Massie	Chicago Bears	OT	70	31	"6' 6"""	312 lbs	9	Ole Miss
+Brent Urban	Chicago Bears	DT	92	29	"6' 7"""	305 lbs	7	Virginia
+Buster Skrine	Chicago Bears	CB	24	31	"5' 9"""	192 lbs	10	Chattanooga
+Cairo Santos	Chicago Bears	PK	2	28	"5' 8"""	160 lbs	6	Tulane
+Charles Leno Jr.	Chicago Bears	OT	72	28	"6' 3"""	316 lbs	7	Boise State
+Cody Whitehair	Chicago Bears	C	65	28	"6' 3"""	313 lbs	5	Kansas State
+Cole Kmet	Chicago Bears	TE	85	21	"6' 6"""	285 lbs	R	Notre Dame
+Cordarrelle Patterson	Chicago Bears	WR	84	29	"6' 2"""	227 lbs	8	Tennessee
+Daniel McCullers	Chicago Bears	NT	75	28	"6' 7"""	352 lbs	7	Tennessee
+Danny Trevathan	Chicago Bears	LB	59	30	"6' 0"""	237 lbs	9	Kentucky
+Darnell Mooney	Chicago Bears	WR	11	22	"5' 11"""	177 lbs	R	Tulane
+David Montgomery	Chicago Bears	RB	32	23	"5' 11"""	222 lbs	2	Iowa State
+DeAndre Houston-Carson	Chicago Bears	S	36	27	"6' 0"""	205 lbs	5	William & Mary
+Demetrius Harris	Chicago Bears	TE	86	29	"6' 7"""	258 lbs	7	Milwaukee
+Deon Bush	Chicago Bears	S	26	27	"6' 0"""	196 lbs	5	Miami (FL)
+Duke Shelley	Chicago Bears	CB	20	23	"5' 9"""	178 lbs	2	Kansas State
+Eddie Jackson	Chicago Bears	S	39	26	"6' 0"""	199 lbs	4	Alabama
+Germain Ifedi	Chicago Bears	G	74	26	"6' 5"""	340 lbs	5	Texas A&M
+J.P. Holtz	Chicago Bears	TE	81	27	"6' 3"""	259 lbs	2	Pittsburgh
+James Daniels	Chicago Bears	G	68	23	"6' 4"""	310 lbs	3	Iowa
+James Vaughters	Chicago Bears	LB	93	27	"6' 2"""	255 lbs	1	Stanford
+Jason Spriggs	Chicago Bears	OT	78	26	"6' 6"""	308 lbs	5	Indiana
+Javon Wims	Chicago Bears	WR	83	26	"6' 4"""	219 lbs	3	Georgia
+Jaylon Johnson	Chicago Bears	CB	33	21	"6' 0"""	195 lbs	R	Utah
+Jimmy Graham	Chicago Bears	TE	80	33	"6' 7"""	260 lbs	11	Miami (FL)
+Joel Iyiegbuniwe	Chicago Bears	LB	45	24	"6' 1"""	232 lbs	3	Western Kentucky
+Josh Woods	Chicago Bears	LB	55	24	"6' 1"""	236 lbs	2	Maryland
+Khalil Mack	Chicago Bears	LB	52	29	"6' 3"""	260 lbs	7	Buffalo
+Kindle Vildor	Chicago Bears	CB	22	22	"5' 11"""	183 lbs	R	Georgia Southern
+Kyle Fuller	Chicago Bears	CB	23	28	"5' 11"""	194 lbs	7	Virginia Tech
+Mario Edwards Jr.	Chicago Bears	DE	97	26	"6' 3"""	280 lbs	6	Florida State
+Mitchell Trubisky	Chicago Bears	QB	10	26	"6' 2"""	220 lbs	4	North Carolina
+Nick Foles	Chicago Bears	QB	9	31	"6' 6"""	253 lbs	9	Arizona
+Pat O'Donnell	Chicago Bears	P	16	29	"6' 4"""	212 lbs	7	Miami (FL)
+Patrick Scales	Chicago Bears	LS	48	32	"6' 3"""	226 lbs	5	Utah State
+Rashaad Coward	Chicago Bears	OT	69	25	"6' 5"""	319 lbs	3	Old Dominion
+Riley Ridley	Chicago Bears	WR	88	24	"6' 1"""	192 lbs	2	Georgia
+Robert Quinn	Chicago Bears	LB	94	30	"6' 4"""	250 lbs	10	North Carolina
+Roquan Smith	Chicago Bears	LB	58	23	"6' 0"""	230 lbs	3	Georgia
+Roy Robertson-Harris	Chicago Bears	DE	95	27	"6' 5"""	298 lbs	4	UTEP
+Ryan Nall	Chicago Bears	RB	35	24	"6' 2"""	239 lbs	2	Oregon State
+Sherrick McManis	Chicago Bears	S	27	32	"5' 11"""	203 lbs	11	Northwestern
+Tarik Cohen	Chicago Bears	RB	29	25	"5' 6"""	194 lbs	4	North Carolina A&T
+Tashaun Gipson Sr.	Chicago Bears	S	38	30	"6' 1"""	209 lbs	9	Wyoming
+Ted Ginn Jr.	Chicago Bears	WR	19	35	"5' 11"""	167 lbs	14	Ohio State
+Trevis Gipson	Chicago Bears	LB	99	23	"6' 4"""	255 lbs	R	Tulsa
+A.J. Green	Cincinnati Bengals	WR	18	32	"6' 4"""	210 lbs	10	Georgia
+Akeem Davis-Gaither	Cincinnati Bengals	LB	59	23	"6' 2"""	224 lbs	R	Appalachian State
+Alex Erickson	Cincinnati Bengals	WR	12	27	"6' 0"""	195 lbs	5	Wisconsin
+Amani Bledsoe	Cincinnati Bengals	DE	91	22	"6' 4"""	280 lbs	1	Oklahoma
+Andrew Brown	Cincinnati Bengals	DT	93	24	"6' 3"""	290 lbs	2	Virginia
+Auden Tate	Cincinnati Bengals	WR	19	23	"6' 5"""	228 lbs	3	Florida State
+Austin Seibert	Cincinnati Bengals	PK	3	23	"5' 9"""	211 lbs	2	Oklahoma
+Billy Price	Cincinnati Bengals	C	53	25	"6' 4"""	310 lbs	3	Ohio State
+Bobby Hart	Cincinnati Bengals	OT	68	26	"6' 5"""	310 lbs	6	Florida State
+Brandon Wilson	Cincinnati Bengals	S	40	26	"5' 10"""	200 lbs	4	Houston
+Carl Lawson	Cincinnati Bengals	DE	58	25	"6' 2"""	265 lbs	4	Auburn
+Carlos Dunlap	Cincinnati Bengals	DE	96	31	"6' 6"""	285 lbs	11	Florida
+Cethan Carter	Cincinnati Bengals	TE	82	25	"6' 3"""	248 lbs	4	Nebraska
+Christian Covington	Cincinnati Bengals	DT	99	26	"6' 2"""	305 lbs	6	Rice
+Clark Harris	Cincinnati Bengals	LS	46	36	"6' 5"""	250 lbs	12	Rutgers
+D.J. Reader	Cincinnati Bengals	DT	98	26	"6' 3"""	347 lbs	5	Clemson
+Darius Phillips	Cincinnati Bengals	CB	23	25	"5' 10"""	190 lbs	3	Western Michigan
+Drew Sample	Cincinnati Bengals	TE	89	24	"6' 4"""	258 lbs	2	Washington
+Fred Johnson	Cincinnati Bengals	OT	74	23	"6' 6"""	325 lbs	2	Florida
+Geno Atkins	Cincinnati Bengals	DT	97	32	"6' 1"""	300 lbs	11	Georgia
+Germaine Pratt	Cincinnati Bengals	LB	57	24	"6' 3"""	245 lbs	2	North Carolina State
+Giovani Bernard	Cincinnati Bengals	RB	25	28	"5' 9"""	205 lbs	8	North Carolina
+Hakeem Adeniji	Cincinnati Bengals	G	77	22	"6' 4"""	302 lbs	R	Kansas
+Jessie Bates III	Cincinnati Bengals	S	30	23	"6' 1"""	200 lbs	3	Wake Forest
+Joe Burrow	Cincinnati Bengals	QB	9	23	"6' 4"""	221 lbs	R	LSU
+Joe Mixon	Cincinnati Bengals	RB	28	24	"6' 1"""	220 lbs	4	Oklahoma
+John Ross III	Cincinnati Bengals	WR	11	24	"5' 11"""	194 lbs	4	Washington
+Jonah Williams	Cincinnati Bengals	OT	73	22	"6' 5"""	305 lbs	2	Alabama
+Jordan Evans	Cincinnati Bengals	LB	50	25	"6' 3"""	242 lbs	4	Oklahoma
+Josh Bynes	Cincinnati Bengals	LB	56	31	"6' 1"""	235 lbs	9	Auburn
+Kevin Huber	Cincinnati Bengals	P	10	35	"6' 1"""	210 lbs	12	Cincinnati
+Khalid Kareem	Cincinnati Bengals	DE	90	22	"6' 4"""	268 lbs	R	Notre Dame
+LeShaun Sims	Cincinnati Bengals	CB	38	27	"6' 0"""	203 lbs	5	Southern Utah
+Logan Wilson	Cincinnati Bengals	LB	55	24	"6' 2"""	241 lbs	R	Wyoming
+Mackensie Alexander	Cincinnati Bengals	CB	21	26	"5' 10"""	192 lbs	5	Clemson
+Markus Bailey	Cincinnati Bengals	LB	51	23	"6' 0"""	235 lbs	R	Purdue
+Mason Schreck	Cincinnati Bengals	TE	86	26	"6' 5"""	252 lbs	3	Buffalo
+Michael Jordan	Cincinnati Bengals	G	60	22	"6' 6"""	315 lbs	2	Ohio State
+Mike Daniels	Cincinnati Bengals	DT	76	31	"6' 0"""	310 lbs	9	Iowa
+Mike Thomas	Cincinnati Bengals	WR	80	26	"6' 1"""	189 lbs	5	Southern Miss
+Randy Bullock	Cincinnati Bengals	PK	4	30	"5' 9"""	210 lbs	9	Texas A&M
+Ryan Finley	Cincinnati Bengals	QB	5	25	"6' 4"""	207 lbs	2	North Carolina State
+Sam Hubbard	Cincinnati Bengals	DE	94	25	"6' 5"""	265 lbs	3	Ohio State
+Samaje Perine	Cincinnati Bengals	RB	34	25	"5' 11"""	240 lbs	4	Oklahoma
+Shaq Calhoun	Cincinnati Bengals	G	63	24	"6' 3"""	310 lbs	2	Mississippi State
+Shawn Williams	Cincinnati Bengals	S	36	29	"6' 0"""	212 lbs	8	Georgia
+Tee Higgins	Cincinnati Bengals	WR	85	21	"6' 4"""	215 lbs	R	Clemson
+Tony Brown	Cincinnati Bengals	CB	27	25	"6' 0"""	199 lbs	3	Alabama
+Trayveon Williams	Cincinnati Bengals	RB	32	22	"5' 8"""	206 lbs	2	Texas A&M
+Trey Hopkins	Cincinnati Bengals	C	66	28	"6' 3"""	316 lbs	5	Texas
+Tyler Boyd	Cincinnati Bengals	WR	83	25	"6' 2"""	203 lbs	5	Pittsburgh
+Vonn Bell	Cincinnati Bengals	S	24	25	"5' 11"""	205 lbs	5	Ohio State
+William Jackson III	Cincinnati Bengals	CB	22	27	"6' 0"""	196 lbs	5	Houston
+Adrian Clayborn	Cleveland Browns	DE	94	32	"6' 3"""	280 lbs	10	Iowa
+Andrew Sendejo	Cleveland Browns	S	23	33	"6' 1"""	210 lbs	10	Rice
+Andy Janovich	Cleveland Browns	FB	31	27	"6' 1"""	238 lbs	5	Nebraska
+Austin Hooper	Cleveland Browns	TE	81	25	"6' 4"""	254 lbs	5	Stanford
+B.J. Goodson	Cleveland Browns	LB	93	27	"6' 1"""	242 lbs	5	Clemson
+Baker Mayfield	Cleveland Browns	QB	6	25	"6' 1"""	215 lbs	3	Oklahoma
+Case Keenum	Cleveland Browns	QB	5	32	"6' 1"""	215 lbs	8	Houston
+Charley Hughlett	Cleveland Browns	LS	47	30	"6' 4"""	248 lbs	6	UCF
+Chris Hubbard	Cleveland Browns	OT	74	29	"6' 4"""	295 lbs	7	UAB
+Cody Parkey	Cleveland Browns	PK	2	28	"6' 0"""	190 lbs	6	Auburn
+Denzel Ward	Cleveland Browns	CB	21	23	"5' 11"""	190 lbs	3	Ohio State
+D'Ernest Johnson	Cleveland Browns	RB	30	24	"5' 10"""	208 lbs	2	South Florida
+Donovan Peoples-Jones	Cleveland Browns	WR	11	21	"6' 2"""	212 lbs	R	Michigan
+Evan Brown	Cleveland Browns	C	63	24	"6' 2"""	302 lbs	2	SMU
+Greedy Williams	Cleveland Browns	CB	26	22	"6' 2"""	185 lbs	2	LSU
+Harrison Bryant	Cleveland Browns	TE	88	22	"6' 5"""	243 lbs	R	Florida Atlantic
+Jack Conklin	Cleveland Browns	OT	78	26	"6' 6"""	308 lbs	5	Michigan State
+Jacob Phillips	Cleveland Browns	LB	50	21	"6' 3"""	229 lbs	R	LSU
+Jamie Gillan	Cleveland Browns	P	7	23	"6' 1"""	207 lbs	2	Arkansas-Pine Bluff
+Jarvis Landry	Cleveland Browns	WR	80	27	"5' 11"""	196 lbs	7	LSU
+JC Tretter	Cleveland Browns	C	64	29	"6' 4"""	307 lbs	8	Cornell
+Jedrick Wills Jr.	Cleveland Browns	OT	71	21	"6' 4"""	312 lbs	R	Alabama
+Joe Jackson	Cleveland Browns	DE	91	23	"6' 4"""	275 lbs	2	Miami (FL)
+Joel Bitonio	Cleveland Browns	G	75	28	"6' 4"""	320 lbs	7	Nevada
+JoJo Natson	Cleveland Browns	WR	19	26	"5' 7"""	153 lbs	4	Akron
+Jordan Elliott	Cleveland Browns	DT	90	22	"6' 4"""	302 lbs	R	Missouri
+Kareem Hunt	Cleveland Browns	RB	27	25	"5' 11"""	216 lbs	4	Toledo
+Karl Joseph	Cleveland Browns	S	42	27	"5' 10"""	200 lbs	5	West Virginia
+Kendall Lamm	Cleveland Browns	OT	70	28	"6' 5"""	310 lbs	6	Appalachian State
+Kevin Johnson	Cleveland Browns	CB	28	28	"6' 0"""	185 lbs	6	Wake Forest
+KhaDarel Hodge	Cleveland Browns	WR	12	25	"6' 2"""	205 lbs	3	Prairie View A&M
+Larry Ogunjobi	Cleveland Browns	DT	65	26	"6' 3"""	305 lbs	4	Charlotte
+M.J. Stewart Jr.	Cleveland Browns	CB	36	25	"5' 11"""	200 lbs	3	North Carolina
+Mack Wilson	Cleveland Browns	LB	51	22	"6' 1"""	233 lbs	2	Alabama
+Malcolm Smith	Cleveland Browns	LB	56	31	"6' 0"""	225 lbs	9	USC
+Montrel Meander	Cleveland Browns	LB	41	26	"6' 2"""	215 lbs	1	Grambling State
+Myles Garrett	Cleveland Browns	DE	95	24	"6' 4"""	272 lbs	4	Texas A&M
+Nick Chubb	Cleveland Browns	RB	24	24	"5' 11"""	227 lbs	3	Georgia
+Nick Harris	Cleveland Browns	C	53	21	"6' 1"""	302 lbs	R	Washington
+Odell Beckham Jr.	Cleveland Browns	WR	13	27	"5' 11"""	198 lbs	7	LSU
+Olivier Vernon	Cleveland Browns	DE	54	29	"6' 2"""	262 lbs	9	Miami (FL)
+Porter Gustin	Cleveland Browns	DE	97	23	"6' 5"""	257 lbs	2	USC
+Rashard Higgins	Cleveland Browns	WR	82	25	"6' 1"""	198 lbs	5	Colorado State
+Ronnie Harrison Jr.	Cleveland Browns	S	33	23	"6' 3"""	214 lbs	3	Alabama
+Sheldon Richardson	Cleveland Browns	DT	98	29	"6' 3"""	294 lbs	8	Missouri
+Sheldrick Redwine	Cleveland Browns	S	29	23	"6' 0"""	196 lbs	2	Miami (FL)
+Sione Takitaki	Cleveland Browns	LB	44	25	"6' 1"""	238 lbs	2	BYU
+Stephen Carlson	Cleveland Browns	TE	89	23	"6' 4"""	240 lbs	2	Princeton
+Tae Davis	Cleveland Browns	LB	55	24	"6' 1"""	224 lbs	3	Chattanooga
+Tavierre Thomas	Cleveland Browns	CB	20	24	"5' 10"""	205 lbs	3	Ferris State
+Terrance Mitchell	Cleveland Browns	CB	39	28	"5' 11"""	191 lbs	7	Oregon
+Vincent Taylor	Cleveland Browns	DT	96	26	"6' 3"""	311 lbs	4	Oklahoma State
+Wyatt Teller	Cleveland Browns	G	77	25	"6' 4"""	315 lbs	3	Virginia Tech
+Aldon Smith	Dallas Cowboys	DE	58	30	"6' 4"""	280 lbs	6	Missouri
+Alex Light	Dallas Cowboys	OT	64	24	"6' 5"""	309 lbs	3	Richmond
+Amari Cooper	Dallas Cowboys	WR	19	26	"6' 1"""	225 lbs	6	Alabama
+Andy Dalton	Dallas Cowboys	QB	14	32	"6' 2"""	220 lbs	10	TCU
+Antwaun Woods	Dallas Cowboys	DT	99	27	"6' 1"""	310 lbs	3	USC
+Ben DiNucci	Dallas Cowboys	QB	7	23	"6' 2"""	215 lbs	R	James Madison
+Blake Bell	Dallas Cowboys	TE	80	29	"6' 6"""	260 lbs	6	Oklahoma
+Bradlee Anae	Dallas Cowboys	DE	56	22	"6' 3"""	260 lbs	R	Utah
+Brandon Carr	Dallas Cowboys	CB	39	34	"6' 0"""	210 lbs	13	Grand Valley State
+Brandon Knight	Dallas Cowboys	OT	69	23	"6' 4"""	315 lbs	2	Indiana
+C.J. Goodwin	Dallas Cowboys	CB	29	30	"6' 3"""	187 lbs	5	California (PA)
+Cedrick Wilson	Dallas Cowboys	WR	11	25	"6' 2"""	195 lbs	3	Boise State
+CeeDee Lamb	Dallas Cowboys	WR	88	21	"6' 2"""	200 lbs	R	Oklahoma
+Chidobe Awuzie	Dallas Cowboys	CB	24	25	"6' 0"""	203 lbs	4	Colorado
+Chris Jones	Dallas Cowboys	P	6	31	"6' 0"""	205 lbs	9	Carson-Newman
+Connor McGovern	Dallas Cowboys	G	66	22	"6' 5"""	315 lbs	2	Penn State
+Connor Williams	Dallas Cowboys	G	52	23	"6' 5"""	320 lbs	3	Texas
+Dak Prescott	Dallas Cowboys	QB	4	27	"6' 2"""	235 lbs	5	Mississippi State
+Dalton Schultz	Dallas Cowboys	TE	86	24	"6' 5"""	255 lbs	3	Stanford
+Darian Thompson	Dallas Cowboys	S	23	27	"6' 2"""	212 lbs	5	Boise State
+Daryl Worley	Dallas Cowboys	CB	28	25	"6' 1"""	210 lbs	5	West Virginia
+DeMarcus Lawrence	Dallas Cowboys	DE	90	28	"6' 3"""	250 lbs	7	Boise State
+Donovan Wilson	Dallas Cowboys	S	37	25	"6' 0"""	200 lbs	2	Texas A&M
+Dontari Poe	Dallas Cowboys	DT	95	30	"6' 3"""	342 lbs	9	Memphis
+Dorance Armstrong	Dallas Cowboys	DE	92	23	"6' 4"""	260 lbs	3	Kansas
+Everson Griffen	Dallas Cowboys	DE	97	32	"6' 3"""	273 lbs	11	USC
+Ezekiel Elliott	Dallas Cowboys	RB	21	25	"6' 0"""	228 lbs	5	Ohio State
+Greg Zuerlein	Dallas Cowboys	PK	2	32	"6' 0"""	195 lbs	9	Missouri Western
+Jaylon Smith	Dallas Cowboys	LB	54	25	"6' 2"""	240 lbs	4	Notre Dame
+Joe Looney	Dallas Cowboys	C	73	30	"6' 3"""	310 lbs	9	Wake Forest
+Joe Thomas	Dallas Cowboys	LB	48	29	"6' 1"""	230 lbs	6	South Carolina State
+Jourdan Lewis	Dallas Cowboys	CB	26	25	"5' 10"""	186 lbs	4	Michigan
+Justin March	Dallas Cowboys	LB	53	27	"5' 11"""	228 lbs	6	Akron
+L.P. Ladouceur	Dallas Cowboys	LS	91	39	"6' 5"""	256 lbs	16	California
+Luke Gifford	Dallas Cowboys	LB	57	25	"6' 3"""	245 lbs	2	Nebraska
+Malik Turner	Dallas Cowboys	WR	17	24	"6' 2"""	202 lbs	3	Illinois
+Michael Gallup	Dallas Cowboys	WR	13	24	"6' 1"""	205 lbs	3	Colorado State
+Neville Gallimore	Dallas Cowboys	DT	96	23	"6' 2"""	307 lbs	R	Oklahoma
+Noah Brown	Dallas Cowboys	WR	85	24	"6' 2"""	215 lbs	4	Ohio State
+Reggie Robinson II	Dallas Cowboys	CB	41	23	"6' 1"""	200 lbs	R	Tulsa
+Rico Dowdle	Dallas Cowboys	RB	34	22	"5' 11"""	215 lbs	R	South Carolina
+Sean McKeon	Dallas Cowboys	TE	84	22	"6' 5"""	255 lbs	R	Michigan
+Terence Steele	Dallas Cowboys	OT	78	23	"6' 6"""	320 lbs	R	Texas Tech
+Tony Pollard	Dallas Cowboys	RB	20	23	"6' 0"""	210 lbs	2	Memphis
+Trevon Diggs	Dallas Cowboys	CB	27	22	"6' 1"""	203 lbs	R	Alabama
+Trysten Hill	Dallas Cowboys	DT	72	22	"6' 3"""	305 lbs	2	UCF
+Tyler Biadasz	Dallas Cowboys	C	63	22	"6' 4"""	318 lbs	R	Wisconsin
+Tyron Smith	Dallas Cowboys	OT	77	29	"6' 5"""	305 lbs	10	USC
+Tyrone Crawford	Dallas Cowboys	DE	98	30	"6' 4"""	290 lbs	9	Boise State
+Xavier Woods	Dallas Cowboys	S	25	25	"5' 11"""	212 lbs	4	Louisiana Tech
+Zack Martin	Dallas Cowboys	G	70	29	"6' 4"""	315 lbs	7	Notre Dame
+Albert Okwuegbunam	Denver Broncos	TE	85	22	"6' 5"""	258 lbs	R	Missouri
+Alexander Johnson	Denver Broncos	LB	45	28	"6' 2"""	255 lbs	3	Tennessee
+Andrew Beck	Denver Broncos	TE	83	24	"6' 3"""	255 lbs	2	Texas
+Anthony Chickillo	Denver Broncos	LB	58	27	"6' 3"""	255 lbs	6	Miami (FL)
+Austin Calitro	Denver Broncos	LB	53	26	"6' 0"""	240 lbs	3	Villanova
+Austin Schlottmann	Denver Broncos	G	71	25	"6' 6"""	300 lbs	2	TCU
+Blake Bortles	Denver Broncos	QB	5	28	"6' 5"""	236 lbs	7	UCF
+Bradley Chubb	Denver Broncos	LB	55	24	"6' 4"""	275 lbs	3	North Carolina State
+Brandon McManus	Denver Broncos	PK	8	29	"6' 3"""	201 lbs	7	Temple
+Bryce Callahan	Denver Broncos	CB	29	28	"5' 9"""	188 lbs	6	Rice
+Calvin Anderson	Denver Broncos	OT	76	24	"6' 5"""	300 lbs	2	Texas
+DaeSean Hamilton	Denver Broncos	WR	17	25	"6' 1"""	206 lbs	3	Penn State
+Dalton Risner	Denver Broncos	G	66	25	"6' 5"""	312 lbs	2	Kansas State
+Davontae Harris	Denver Broncos	CB	27	25	"5' 11"""	200 lbs	3	Illinois State
+Demar Dotson	Denver Broncos	OT	78	34	"6' 9"""	315 lbs	12	Southern Miss
+De'Vante Bausby	Denver Broncos	CB	41	27	"6' 2"""	190 lbs	4	Pittsburg State
+Diontae Spencer	Denver Broncos	WR	11	28	"5' 8"""	170 lbs	2	McNeese State
+Drew Lock	Denver Broncos	QB	3	23	"6' 4"""	228 lbs	2	Missouri
+Duke Dawson Jr.	Denver Broncos	CB	20	24	"5' 10"""	198 lbs	3	Florida
+Elijah Wilkinson	Denver Broncos	OT	68	25	"6' 6"""	329 lbs	4	Massachusetts
+Essang Bassey	Denver Broncos	CB	34	22	"5' 10"""	190 lbs	R	Wake Forest
+Garett Bolles	Denver Broncos	OT	72	28	"6' 5"""	300 lbs	4	Utah
+Graham Glasgow	Denver Broncos	C	61	28	"6' 6"""	310 lbs	5	Michigan
+Jacob Bobenmoyer	Denver Broncos	LS	46	23	"6' 2"""	235 lbs	R	Northern Colorado
+Jake Butt	Denver Broncos	TE	80	25	"6' 6"""	250 lbs	3	Michigan
+Jeff Driskel	Denver Broncos	QB	9	27	"6' 4"""	235 lbs	5	Louisiana Tech
+Jeremiah Attaochu	Denver Broncos	LB	97	27	"6' 3"""	252 lbs	7	Georgia Tech
+Jerry Jeudy	Denver Broncos	WR	10	21	"6' 1"""	193 lbs	R	Alabama
+Joe Jones	Denver Broncos	LB	43	26	"6' 0"""	231 lbs	4	Northwestern
+Josey Jewell	Denver Broncos	LB	47	25	"6' 2"""	236 lbs	3	Iowa
+Jurrell Casey	Denver Broncos	DT	99	30	"6' 1"""	305 lbs	10	USC
+Justin Simmons	Denver Broncos	S	31	26	"6' 2"""	202 lbs	5	Boston College
+Kareem Jackson	Denver Broncos	S	22	32	"5' 10"""	183 lbs	11	Alabama
+KJ Hamler	Denver Broncos	WR	13	21	"5' 9"""	178 lbs	R	Penn State
+Lloyd Cushenberry III	Denver Broncos	C	79	22	"6' 4"""	315 lbs	R	LSU
+Malik Reed	Denver Broncos	LB	59	24	"6' 2"""	235 lbs	2	Nevada
+McTelvin Agim	Denver Broncos	DT	95	22	"6' 3"""	309 lbs	R	Arkansas
+Melvin Gordon III	Denver Broncos	RB	25	27	"6' 1"""	215 lbs	6	Wisconsin
+Michael Ojemudia	Denver Broncos	CB	23	23	"6' 1"""	200 lbs	R	Iowa
+Mike Purcell	Denver Broncos	NT	98	29	"6' 3"""	328 lbs	5	Wyoming
+Netane Muti	Denver Broncos	G	52	21	"6' 3"""	315 lbs	R	Fresno State
+Nick Vannett	Denver Broncos	TE	88	27	"6' 6"""	261 lbs	5	Ohio State
+Noah Fant	Denver Broncos	TE	87	22	"6' 4"""	249 lbs	2	Iowa
+P.J. Locke	Denver Broncos	S	37	23	"5' 10"""	202 lbs	1	Texas
+Phillip Lindsay	Denver Broncos	RB	30	26	"5' 8"""	190 lbs	3	Colorado
+Royce Freeman	Denver Broncos	RB	28	24	"6' 0"""	238 lbs	3	Oregon
+Sam Martin	Denver Broncos	P	6	30	"6' 1"""	211 lbs	8	Appalachian State
+Shelby Harris	Denver Broncos	DE	96	29	"6' 2"""	290 lbs	6	Illinois State
+Tim Patrick	Denver Broncos	WR	81	26	"6' 4"""	212 lbs	3	Utah
+Trey Marshall	Denver Broncos	S	36	24	"6' 0"""	207 lbs	2	Florida State
+Tyrie Cleveland	Denver Broncos	WR	16	23	"6' 2"""	205 lbs	R	Florida
+Adrian Peterson	Detroit Lions	RB	28	35	"6' 1"""	220 lbs	13	Oklahoma
+Amani Oruwariye	Detroit Lions	CB	24	24	"6' 2"""	205 lbs	2	Penn State
+C.J. Moore	Detroit Lions	S	49	24	"5' 11"""	195 lbs	2	Ole Miss
+Chase Daniel	Detroit Lions	QB	4	33	"6' 0"""	225 lbs	12	Missouri
+Chris Jones	Detroit Lions	CB		25	"6' 0"""	200 lbs	2	Nebraska
+Christian Jones	Detroit Lions	LB	52	29	"6' 3"""	250 lbs	7	Florida State
+D'Andre Swift	Detroit Lions	RB	32	21	"5' 9"""	215 lbs	R	Georgia
+Danny Amendola	Detroit Lions	WR	80	34	"5' 11"""	185 lbs	12	Texas Tech
+Danny Shelton	Detroit Lions	DT	71	27	"6' 2"""	335 lbs	6	Washington
+Darryl Roberts	Detroit Lions	CB	29	29	"6' 1"""	190 lbs	6	Marshall
+Da'Shawn Hand	Detroit Lions	DE	93	24	"6' 3"""	297 lbs	3	Alabama
+Desmond Trufant	Detroit Lions	CB	23	30	"6' 1"""	190 lbs	8	Washington
+Don Muhlbach	Detroit Lions	LS	48	39	"6' 4"""	258 lbs	17	Texas A&M
+Duron Harmon	Detroit Lions	S	26	29	"6' 1"""	205 lbs	8	Rutgers
+Elijah Lee	Detroit Lions	LB	55	24	"6' 2"""	235 lbs	4	Kansas State
+Frank Ragnow	Detroit Lions	C	77	24	"6' 5"""	311 lbs	3	Arkansas
+Halapoulivaati Vaitai	Detroit Lions	OT	72	27	"6' 6"""	320 lbs	5	TCU
+Hunter Bryant	Detroit Lions	TE	86	22	"6' 2"""	245 lbs	R	Washington
+Jack Fox	Detroit Lions	P	3	24	"6' 2"""	215 lbs	1	Rice
+Jahlani Tavai	Detroit Lions	LB	51	23	"6' 2"""	250 lbs	2	Hawai'i'
+Jalen Reeves-Maybin	Detroit Lions	LB	44	25	"6' 1"""	233 lbs	4	Tennessee
+Jamal Agnew	Detroit Lions	RB	39	25	"5' 10"""	190 lbs	4	San Diego
+Jamie Collins Sr.	Detroit Lions	LB	58	30	"6' 3"""	255 lbs	8	Southern Miss
+Jarrad Davis	Detroit Lions	LB	40	25	"6' 1"""	245 lbs	4	Florida
+Jason Cabinda	Detroit Lions	FB	45	24	"6' 1"""	235 lbs	2	Penn State
+Jeff Okudah	Detroit Lions	CB	30	21	"6' 1"""	202 lbs	R	Ohio State
+Jesse James	Detroit Lions	TE	83	26	"6' 7"""	255 lbs	6	Penn State
+John Penisini	Detroit Lions	DT	91	23	"6' 2"""	325 lbs	R	Utah
+Jonah Jackson	Detroit Lions	G	73	23	"6' 4"""	312 lbs	R	Ohio State
+Julian Okwara	Detroit Lions	DE	99	22	"6' 4"""	250 lbs	R	Notre Dame
+Kenny Golladay	Detroit Lions	WR	19	26	"6' 4"""	214 lbs	4	Northern Illinois
+Kenny Wiggins	Detroit Lions	G	79	32	"6' 6"""	315 lbs	7	Fresno State
+Kerryon Johnson	Detroit Lions	RB	33	23	"5' 11"""	211 lbs	3	Auburn
+Logan Stenberg	Detroit Lions	G	61	23	"6' 6"""	315 lbs	R	Kentucky
+Marvin Hall	Detroit Lions	WR	17	27	"5' 10"""	190 lbs	4	Washington
+Marvin Jones Jr.	Detroit Lions	WR	11	30	"6' 2"""	198 lbs	9	California
+Matt Nelson	Detroit Lions	OT	67	24	"6' 7"""	313 lbs	1	Iowa
+Matt Prater	Detroit Lions	PK	5	36	"5' 10"""	201 lbs	14	UCF
+Matthew Stafford	Detroit Lions	QB	9	32	"6' 3"""	220 lbs	12	Georgia
+Miles Killebrew	Detroit Lions	S	35	27	"6' 2"""	222 lbs	5	Southern Utah
+Nick Williams	Detroit Lions	DT	97	30	"6' 4"""	310 lbs	6	Samford
+Oday Aboushi	Detroit Lions	G	76	29	"6' 5"""	315 lbs	8	Virginia
+Quintez Cephus	Detroit Lions	WR	87	22	"6' 1"""	208 lbs	R	Wisconsin
+Reggie Ragland	Detroit Lions	LB	59	27	"6' 2"""	252 lbs	5	Alabama
+Romeo Okwara	Detroit Lions	DE	95	25	"6' 4"""	263 lbs	5	Notre Dame
+T.J. Hockenson	Detroit Lions	TE	88	23	"6' 5"""	250 lbs	2	Iowa
+Taylor Decker	Detroit Lions	OT	68	27	"6' 7"""	318 lbs	5	Ohio State
+Tony McRae	Detroit Lions	CB	34	27	"5' 10"""	185 lbs	4	North Carolina A&T
+Tracy Walker	Detroit Lions	S	21	25	"6' 1"""	210 lbs	3	Louisiana-Lafayette
+Trey Flowers	Detroit Lions	DE	90	27	"6' 2"""	265 lbs	6	Arkansas
+Ty Johnson	Detroit Lions	RB	31	23	"5' 10"""	210 lbs	2	Maryland
+Tyrell Crosby	Detroit Lions	OT	65	25	"6' 4"""	315 lbs	3	Oregon
+Will Harris	Detroit Lions	S	25	24	"6' 1"""	207 lbs	2	Boston College
+Aaron Jones	Green Bay Packers	RB	33	25	"5' 9"""	208 lbs	4	UTEP
+Aaron Rodgers	Green Bay Packers	QB	12	36	"6' 2"""	225 lbs	16	California
+Adrian Amos	Green Bay Packers	S	31	27	"6' 0"""	214 lbs	6	Penn State
+AJ Dillon	Green Bay Packers	RB	28	22	"6' 0"""	247 lbs	R	Boston College
+Allen Lazard	Green Bay Packers	WR	13	24	"6' 5"""	227 lbs	2	Iowa State
+Billy Turner	Green Bay Packers	G	77	28	"6' 5"""	310 lbs	7	North Dakota State
+Chandon Sullivan	Green Bay Packers	CB	39	24	"5' 11"""	189 lbs	3	Georgia State
+Christian Kirksey	Green Bay Packers	LB	58	28	"6' 2"""	235 lbs	7	Iowa
+Corey Linsley	Green Bay Packers	C	63	29	"6' 3"""	301 lbs	7	Ohio State
+Darnell Savage	Green Bay Packers	S	26	23	"5' 11"""	198 lbs	2	Maryland
+Davante Adams	Green Bay Packers	WR	17	27	"6' 1"""	215 lbs	7	Fresno State
+David Bakhtiari	Green Bay Packers	OT	69	28	"6' 4"""	310 lbs	8	Colorado
+Dean Lowry	Green Bay Packers	DE	94	26	"6' 6"""	296 lbs	5	Northwestern
+Elgton Jenkins	Green Bay Packers	G	74	24	"6' 5"""	311 lbs	2	Mississippi State
+Hunter Bradley	Green Bay Packers	LS	43	26	"6' 3"""	241 lbs	3	Mississippi State
+Jace Sternberger	Green Bay Packers	TE	87	24	"6' 4"""	251 lbs	2	Texas A&M
+Jaire Alexander	Green Bay Packers	CB	23	23	"5' 10"""	196 lbs	3	Louisville
+Jamaal Williams	Green Bay Packers	RB	30	25	"6' 0"""	213 lbs	4	BYU
+JK Scott	Green Bay Packers	P	6	24	"6' 6"""	208 lbs	3	Alabama
+Jon Runyan	Green Bay Packers	G	76	23	"6' 4"""	307 lbs	R	Michigan
+Jonathan Garvin	Green Bay Packers	LB	53	21	"6' 4"""	257 lbs	R	Miami (FL)
+Jordan Love	Green Bay Packers	QB	10	21	"6' 4"""	219 lbs	R	Utah State
+Josh Jackson	Green Bay Packers	CB	37	24	"6' 0"""	196 lbs	3	Iowa
+Josiah Deguara	Green Bay Packers	TE	81	23	"6' 2"""	238 lbs	R	Cincinnati
+Ka'dar Hollman	Green Bay Packers	CB	29	26	"6' 0"""	196 lbs	2	Toledo
+Kenny Clark	Green Bay Packers	DT	97	24	"6' 3"""	314 lbs	5	UCLA
+Kevin King	Green Bay Packers	CB	20	25	"6' 3"""	200 lbs	4	Washington
+Kingsley Keke	Green Bay Packers	DT	96	23	"6' 3"""	288 lbs	2	Texas A&M
+Krys Barnes	Green Bay Packers	LB	51	22	"6' 2"""	229 lbs	R	UCLA
+Lucas Patrick	Green Bay Packers	G	62	27	"6' 3"""	313 lbs	4	Duke
+Malik Taylor	Green Bay Packers	WR	86	24	"6' 1"""	220 lbs	1	Ferris State
+Marcedes Lewis	Green Bay Packers	TE	89	36	"6' 6"""	267 lbs	15	UCLA
+Marquez Valdes-Scantling	Green Bay Packers	WR	83	25	"6' 4"""	206 lbs	3	South Florida
+Mason Crosby	Green Bay Packers	PK	2	36	"6' 1"""	207 lbs	14	Colorado
+Montravius Adams	Green Bay Packers	DT	90	25	"6' 4"""	304 lbs	4	Auburn
+Oren Burks	Green Bay Packers	LB	42	25	"6' 3"""	233 lbs	3	Vanderbilt
+Parry Nickerson	Green Bay Packers	CB	35	25	"5' 10"""	182 lbs	3	Tulane
+Preston Smith	Green Bay Packers	LB	91	27	"6' 5"""	265 lbs	6	Mississippi State
+Randy Ramsey	Green Bay Packers	LB	56	25	"6' 3"""	238 lbs	1	Arkansas
+Rashan Gary	Green Bay Packers	LB	52	22	"6' 5"""	277 lbs	2	Michigan
+Raven Greene	Green Bay Packers	S	24	25	"5' 11"""	197 lbs	3	James Madison
+Rick Wagner	Green Bay Packers	OT	71	30	"6' 6"""	315 lbs	8	Wisconsin
+Robert Tonyan	Green Bay Packers	TE	85	26	"6' 5"""	237 lbs	3	Indiana State
+Tim Boyle	Green Bay Packers	QB	8	25	"6' 4"""	232 lbs	3	Eastern Kentucky
+Ty Summers	Green Bay Packers	LB	44	24	"6' 1"""	241 lbs	2	TCU
+Tyler Ervin	Green Bay Packers	RB	32	26	"5' 10"""	192 lbs	5	San Jose State
+Tyler Lancaster	Green Bay Packers	DT	95	25	"6' 3"""	313 lbs	3	Northwestern
+Vernon Scott	Green Bay Packers	S	36	23	"6' 2"""	202 lbs	R	TCU
+Will Redmond	Green Bay Packers	S	25	26	"5' 11"""	186 lbs	5	Mississippi State
+Yosh Nijman	Green Bay Packers	OT	73	24	"6' 7"""	314 lbs	1	Virginia Tech
+Za'Darius Smith	Green Bay Packers	LB	55	28	"6' 4"""	272 lbs	6	Kentucky
+A.J. Moore Jr.	Houston Texans	S	33	24	"5' 11"""	200 lbs	3	Ole Miss
+AJ McCarron	Houston Texans	QB	2	30	"6' 3"""	215 lbs	6	Alabama
+Benardrick McKinney	Houston Texans	LB	55	27	"6' 4"""	257 lbs	6	Mississippi State
+Bradley Roby	Houston Texans	CB	21	28	"5' 11"""	194 lbs	7	Ohio State
+Brandin Cooks	Houston Texans	WR	13	26	"5' 10"""	183 lbs	7	Oregon State
+Brandon Dunn	Houston Texans	DT	92	28	"6' 2"""	310 lbs	5	Louisville
+Brennan Scarlett	Houston Texans	LB	57	27	"6' 4"""	263 lbs	5	Stanford
+Brent Qvale	Houston Texans	OT	76	29	"6' 7"""	315 lbs	6	Nebraska
+Bryan Anger	Houston Texans	P	9	31	"6' 3"""	205 lbs	9	California
+Buddy Howell	Houston Texans	RB	38	24	"6' 1"""	218 lbs	3	Florida Atlantic
+Carlos Watkins	Houston Texans	DE	91	26	"6' 3"""	297 lbs	4	Clemson
+Charles Omenihu	Houston Texans	DE	94	23	"6' 5"""	280 lbs	2	Texas
+Charlie Heck	Houston Texans	OT	67	23	"6' 8"""	311 lbs	R	North Carolina
+Cornell Armstrong	Houston Texans	CB	30	25	"6' 0"""	185 lbs	3	Southern Miss
+Cullen Gillaspia	Houston Texans	FB	44	25	"6' 2"""	235 lbs	2	Texas A&M
+Darren Fells	Houston Texans	TE	87	34	"6' 7"""	270 lbs	7	UC Irvine
+David Johnson	Houston Texans	RB	31	28	"6' 1"""	224 lbs	6	Northern Iowa
+DeAndre Carter	Houston Texans	WR	14	27	"5' 8"""	190 lbs	3	Sacramento State
+Deshaun Watson	Houston Texans	QB	4	25	"6' 2"""	215 lbs	4	Clemson
+Duke Johnson	Houston Texans	RB	25	27	"5' 9"""	210 lbs	6	Miami (FL)
+Dylan Cole	Houston Texans	LB	51	26	"6' 0"""	237 lbs	4	Missouri State
+Eric Murray	Houston Texans	S	23	26	"5' 11"""	199 lbs	5	Minnesota
+J.J. Watt	Houston Texans	DE	99	31	"6' 5"""	288 lbs	10	Wisconsin
+Jacob Martin	Houston Texans	LB	54	24	"6' 2"""	242 lbs	3	Temple
+John Reid	Houston Texans	CB	34	24	"5' 10"""	187 lbs	R	Penn State
+Jon Weeks	Houston Texans	LS	46	34	"5' 10"""	242 lbs	11	Baylor
+Jonathan Greenard	Houston Texans	LB	52	23	"6' 3"""	263 lbs	R	Florida
+Jordan Akins	Houston Texans	TE	88	28	"6' 4"""	243 lbs	3	UCF
+Justin Reid	Houston Texans	S	20	23	"6' 1"""	203 lbs	3	Stanford
+Ka'imi Fairbairn	Houston Texans	PK	7	26	"6' 0"""	183 lbs	5	UCLA
+Keion Crossen	Houston Texans	CB	35	24	"5' 10"""	185 lbs	3	Western Carolina
+Keke Coutee	Houston Texans	WR	16	23	"5' 11"""	187 lbs	3	Texas Tech
+Kenny Stills	Houston Texans	WR	12	28	"6' 1"""	202 lbs	8	Oklahoma
+Laremy Tunsil	Houston Texans	OT	78	26	"6' 5"""	313 lbs	5	Ole Miss
+Lonnie Johnson Jr.	Houston Texans	CB	32	24	"6' 2"""	213 lbs	2	Kentucky
+Max Scharping	Houston Texans	OT	74	24	"6' 6"""	327 lbs	2	Northern Illinois
+Michael Thomas	Houston Texans	S	28	30	"5' 11"""	195 lbs	7	Stanford
+Nick Martin	Houston Texans	C	66	27	"6' 4"""	295 lbs	5	Notre Dame
+P.J. Hall	Houston Texans	DT	96	25	"6' 0"""	305 lbs	3	Sam Houston State
+Peter Kalambayi	Houston Texans	LB	58	25	"6' 3"""	254 lbs	3	Stanford
+Pharaoh Brown	Houston Texans	TE	86	26	"6' 6"""	258 lbs	3	Oregon
+Phillip Gaines	Houston Texans	CB	29	29	"6' 0"""	193 lbs	7	Rice
+Randall Cobb	Houston Texans	WR	18	30	"5' 10"""	195 lbs	10	Kentucky
+Roderick Johnson	Houston Texans	OT	63	24	"6' 6"""	306 lbs	4	Florida State
+Ross Blacklock	Houston Texans	DT	90	22	"6' 3"""	290 lbs	R	TCU
+Senio Kelemete	Houston Texans	G	64	30	"6' 3"""	301 lbs	8	Washington
+Tyrell Adams	Houston Texans	LB	50	28	"6' 2"""	230 lbs	4	West Georgia
+Tytus Howard	Houston Texans	OT	71	24	"6' 5"""	322 lbs	2	Alabama State
+Vernon Hargreaves III	Houston Texans	CB	26	25	"5' 10"""	204 lbs	5	Florida
+Whitney Mercilus	Houston Texans	LB	59	30	"6' 4"""	258 lbs	9	Illinois
+Will Fuller V	Houston Texans	WR	15	26	"6' 0"""	184 lbs	5	Notre Dame
+Zach Cunningham	Houston Texans	LB	41	25	"6' 3"""	238 lbs	4	Vanderbilt
+Zach Fulton	Houston Texans	G	73	29	"6' 5"""	321 lbs	7	Tennessee
+Al-Quadin Muhammad	Indianapolis Colts	DE	97	25	"6' 4"""	250 lbs	4	Miami (FL)
+Anthony Castonzo	Indianapolis Colts	OT	74	32	"6' 7"""	307 lbs	10	Boston College
+Anthony Walker	Indianapolis Colts	LB	54	25	"6' 1"""	230 lbs	4	Northwestern
+Ashton Dulin	Indianapolis Colts	WR	16	23	"6' 1"""	215 lbs	2	Malone University
+Ben Banogu	Indianapolis Colts	DE	52	24	"6' 3"""	252 lbs	2	TCU
+Bobby Okereke	Indianapolis Colts	LB	58	24	"6' 1"""	235 lbs	2	Stanford
+Braden Smith	Indianapolis Colts	G	72	24	"6' 6"""	315 lbs	3	Auburn
+Chaz Green	Indianapolis Colts	OT	75	28	"6' 5"""	318 lbs	4	Florida
+Danny Pinter	Indianapolis Colts	G	63	24	"6' 4"""	306 lbs	R	Ball State
+Darius Leonard	Indianapolis Colts	LB	53	25	"6' 2"""	230 lbs	3	South Carolina State
+Daurice Fountain	Indianapolis Colts	WR	10	24	"6' 2"""	210 lbs	2	Northern Iowa
+DeForest Buckner	Indianapolis Colts	DT	99	26	"6' 7"""	295 lbs	5	Oregon
+Denico Autry	Indianapolis Colts	DE	96	30	"6' 5"""	285 lbs	7	Mississippi State
+Dezmon Patmon	Indianapolis Colts	WR	85	22	"6' 4"""	225 lbs	R	Washington State
+E.J. Speed	Indianapolis Colts	LB	45	25	"6' 3"""	224 lbs	2	Tarleton State
+Eli Ankou	Indianapolis Colts	DT	79	26	"6' 3"""	325 lbs	4	UCLA
+George Odum	Indianapolis Colts	S	30	26	"6' 1"""	202 lbs	3	Central Arkansas
+Grover Stewart	Indianapolis Colts	DT	90	26	"6' 4"""	315 lbs	4	Albany State (GA)
+Ibraheim Campbell	Indianapolis Colts	S	33	28	"5' 11"""	210 lbs	6	Northwestern
+Isaiah Rodgers	Indianapolis Colts	CB	34	22	"5' 10"""	170 lbs	R	Massachusetts
+Jack Doyle	Indianapolis Colts	TE	84	30	"6' 6"""	262 lbs	8	Western Kentucky
+Jacob Eason	Indianapolis Colts	QB	9	22	"6' 6"""	231 lbs	R	Washington
+Jacoby Brissett	Indianapolis Colts	QB	7	27	"6' 4"""	238 lbs	5	North Carolina State
+Jonathan Taylor	Indianapolis Colts	RB	28	21	"5' 10"""	226 lbs	R	Wisconsin
+Jordan Glasgow	Indianapolis Colts	LB	59	24	"6' 1"""	226 lbs	R	Michigan
+Jordan Wilkins	Indianapolis Colts	RB	20	26	"6' 1"""	216 lbs	3	Ole Miss
+Julian Blackmon	Indianapolis Colts	S	32	22	"6' 0"""	187 lbs	R	Utah
+Justin Houston	Indianapolis Colts	DE	50	31	"6' 3"""	270 lbs	10	Georgia
+Kenny Moore II	Indianapolis Colts	CB	23	25	"5' 9"""	190 lbs	4	Valdosta State
+Khari Willis	Indianapolis Colts	S	37	24	"5' 11"""	213 lbs	2	Michigan State
+Le'Raven Clark	Indianapolis Colts	OT	62	27	"6' 5"""	311 lbs	5	Texas Tech
+Luke Rhodes	Indianapolis Colts	LS	46	27	"6' 2"""	238 lbs	4	William & Mary
+Mark Glowinski	Indianapolis Colts	G	64	28	"6' 4"""	310 lbs	6	West Virginia
+Matthew Adams	Indianapolis Colts	LB	49	24	"6' 0"""	229 lbs	3	Houston
+Michael Pittman Jr.	Indianapolis Colts	WR	11	22	"6' 4"""	223 lbs	R	USC
+Mo Alie-Cox	Indianapolis Colts	TE	81	27	"6' 5"""	267 lbs	3	Virginia Commonwealth
+Noah Togiai	Indianapolis Colts	TE	86	23	"6' 4"""	244 lbs	R	Oregon State
+Nyheim Hines	Indianapolis Colts	RB	21	23	"5' 9"""	196 lbs	3	North Carolina State
+Philip Rivers	Indianapolis Colts	QB	17	38	"6' 5"""	228 lbs	17	North Carolina State
+Quenton Nelson	Indianapolis Colts	G	56	24	"6' 5"""	330 lbs	3	Notre Dame
+Rigoberto Sanchez	Indianapolis Colts	P	8	26	"6' 0"""	195 lbs	4	Hawai'i'
+Rock Ya-Sin	Indianapolis Colts	CB	26	24	"6' 0"""	190 lbs	2	Temple
+Rodrigo Blankenship	Indianapolis Colts	PK	3	23	"6' 1"""	184 lbs	R	Georgia
+Ryan Kelly	Indianapolis Colts	C	78	27	"6' 4"""	307 lbs	5	Alabama
+T.J. Carrie	Indianapolis Colts	CB	38	30	"6' 0"""	204 lbs	7	Ohio
+T.Y. Hilton	Indianapolis Colts	WR	13	30	"5' 10"""	183 lbs	9	Florida International
+Tavon Wilson	Indianapolis Colts	S	31	30	"6' 0"""	208 lbs	9	Illinois
+Taylor Stallworth	Indianapolis Colts	DT	76	25	"6' 2"""	305 lbs	2	South Carolina
+Tremon Smith	Indianapolis Colts	CB	35	24	"5' 11"""	190 lbs	3	Central Arkansas
+Tyquan Lewis	Indianapolis Colts	DE	94	25	"6' 3"""	277 lbs	3	Ohio State
+Xavier Rhodes	Indianapolis Colts	CB	27	30	"6' 1"""	218 lbs	8	Florida State
+Zach Pascal	Indianapolis Colts	WR	14	25	"6' 2"""	214 lbs	3	Old Dominion
+Zaire Franklin	Indianapolis Colts	LB	44	24	"6' 0"""	235 lbs	3	Syracuse
+A.J. Cann	Jacksonville Jaguars	G	60	28	"6' 3"""	315 lbs	6	South Carolina
+Abry Jones	Jacksonville Jaguars	DT	95	29	"6' 4"""	318 lbs	8	Georgia
+Adam Gotsis	Jacksonville Jaguars	DE	96	28	"6' 4"""	287 lbs	5	Georgia Tech
+Andrew Norwell	Jacksonville Jaguars	G	68	28	"6' 6"""	325 lbs	7	Ohio State
+Andrew Wingard	Jacksonville Jaguars	S	42	23	"6' 0"""	209 lbs	2	Wyoming
+Ben Bartch	Jacksonville Jaguars	OT	78	22	"6' 6"""	309 lbs	R	--
+Brandon Linder	Jacksonville Jaguars	C	65	28	"6' 6"""	315 lbs	7	Miami (FL)
+Brandon Watson	Jacksonville Jaguars	CB	40	25	"5' 11"""	198 lbs	2	Michigan
+Brandon Wright	Jacksonville Jaguars	PK	1	23	"5' 10"""	182 lbs	R	Georgia State
+Bruce Miller	Jacksonville Jaguars	FB	49	33	"6' 2"""	248 lbs	6	UCF
+Cam Robinson	Jacksonville Jaguars	OT	74	24	"6' 6"""	320 lbs	4	Alabama
+Cassius Marsh Sr.	Jacksonville Jaguars	DE	54	28	"6' 4"""	254 lbs	7	UCLA
+Chris Claybrooks	Jacksonville Jaguars	CB	27	23	"5' 9"""	179 lbs	R	Memphis
+Chris Conley	Jacksonville Jaguars	WR	18	27	"6' 3"""	205 lbs	6	Georgia
+Chris Thompson	Jacksonville Jaguars	RB	34	29	"5' 8"""	195 lbs	7	Florida State
+CJ Henderson	Jacksonville Jaguars	CB	23	21	"6' 1"""	204 lbs	R	Florida
+Collin Johnson	Jacksonville Jaguars	WR	19	23	"6' 6"""	222 lbs	R	Texas
+D.J. Hayden	Jacksonville Jaguars	CB	25	30	"5' 11"""	190 lbs	8	Houston
+Dakota Allen	Jacksonville Jaguars	LB	53	24	"6' 1"""	232 lbs	2	Texas Tech
+Daniel Thomas	Jacksonville Jaguars	S	20	22	"5' 10"""	215 lbs	R	Auburn
+Dare Ogunbowale	Jacksonville Jaguars	RB	33	26	"5' 10"""	205 lbs	2	Wisconsin
+DaVon Hamilton	Jacksonville Jaguars	DT	52	23	"6' 4"""	320 lbs	R	Ohio State
+Dawuane Smoot	Jacksonville Jaguars	DE	94	25	"6' 3"""	264 lbs	4	Illinois
+Dede Westbrook	Jacksonville Jaguars	WR	12	26	"6' 0"""	178 lbs	4	Oklahoma
+DJ Chark Jr.	Jacksonville Jaguars	WR	17	24	"6' 4"""	198 lbs	3	LSU
+Doug Costin	Jacksonville Jaguars	DT	58	22	"6' 2"""	295 lbs	R	Miami (OH)
+Gardner Minshew II	Jacksonville Jaguars	QB	15	24	"6' 1"""	225 lbs	2	Washington State
+Jake Luton	Jacksonville Jaguars	QB	6	24	"6' 6"""	224 lbs	R	Oregon State
+James O'Shaughnessy	Jacksonville Jaguars	TE	80	28	"6' 4"""	245 lbs	6	Illinois State
+James Robinson	Jacksonville Jaguars	RB	30	22	"5' 9"""	219 lbs	R	Illinois State
+Jawaan Taylor	Jacksonville Jaguars	OT	75	22	"6' 5"""	312 lbs	2	Florida
+Joe Schobert	Jacksonville Jaguars	LB	47	26	"6' 1"""	245 lbs	5	Wisconsin
+Josh Allen	Jacksonville Jaguars	LB	41	23	"6' 5"""	262 lbs	2	Kentucky
+Josh Jones	Jacksonville Jaguars	S	29	26	"6' 2"""	220 lbs	4	North Carolina State
+Josiah Scott	Jacksonville Jaguars	CB	24	21	"5' 9"""	185 lbs	R	Michigan State
+KC McDermott	Jacksonville Jaguars	OT	62	24	"6' 5"""	311 lbs	2	Miami (FL)
+Keelan Cole Sr.	Jacksonville Jaguars	WR	84	27	"6' 1"""	194 lbs	4	Kentucky Wesleyan
+K'Lavon Chaisson	Jacksonville Jaguars	LB	45	21	"6' 3"""	254 lbs	R	LSU
+Laviska Shenault Jr.	Jacksonville Jaguars	WR	10	21	"6' 1"""	227 lbs	R	Colorado
+Leon Jacobs	Jacksonville Jaguars	LB	48	24	"6' 2"""	246 lbs	3	Wisconsin
+Logan Cooke	Jacksonville Jaguars	P	9	25	"6' 5"""	230 lbs	3	Mississippi State
+Luq Barcoo	Jacksonville Jaguars	CB	36	22	"6' 1"""	175 lbs	R	San Diego State
+Mike Glennon	Jacksonville Jaguars	QB	2	30	"6' 7"""	225 lbs	8	North Carolina State
+Myles Jack	Jacksonville Jaguars	LB	44	25	"6' 1"""	244 lbs	5	UCLA
+Ross Matiscik	Jacksonville Jaguars	LS	46	24	"6' 0"""	235 lbs	R	Baylor
+Shaquille Quarterman	Jacksonville Jaguars	LB	50	22	"6' 0"""	234 lbs	R	Miami (FL)
+Sidney Jones	Jacksonville Jaguars	CB	35	24	"6' 0"""	181 lbs	3	Washington
+Taven Bryan	Jacksonville Jaguars	DT	90	24	"6' 5"""	291 lbs	3	Florida
+Timmy Jernigan	Jacksonville Jaguars	DT	98	28	"6' 2"""	295 lbs	7	Florida State
+Tre Herndon	Jacksonville Jaguars	CB	37	24	"5' 11"""	185 lbs	3	Vanderbilt
+Tyler Davis	Jacksonville Jaguars	TE	87	23	"6' 4"""	252 lbs	R	Georgia Tech
+Tyler Eifert	Jacksonville Jaguars	TE	88	30	"6' 6"""	255 lbs	8	Notre Dame
+Tyler Shatley	Jacksonville Jaguars	C	69	29	"6' 3"""	310 lbs	7	Clemson
+Will Richardson Jr.	Jacksonville Jaguars	OT	76	24	"6' 6"""	306 lbs	3	North Carolina State
+Alex Okafor	Kansas City Chiefs	DE	57	29	"6' 4"""	261 lbs	8	Texas
+Andrew Wylie	Kansas City Chiefs	G	77	26	"6' 6"""	309 lbs	3	Eastern Michigan
+Anthony Hitchens	Kansas City Chiefs	LB	53	28	"6' 0"""	235 lbs	7	Iowa
+Anthony Sherman	Kansas City Chiefs	FB	42	31	"5' 10"""	242 lbs	10	Connecticut
+Antonio Hamilton	Kansas City Chiefs	CB	20	27	"6' 0"""	195 lbs	5	South Carolina State
+Armani Watts	Kansas City Chiefs	S	23	24	"5' 11"""	205 lbs	3	Texas A&M
+Austin Reiter	Kansas City Chiefs	C	62	28	"6' 3"""	300 lbs	5	South Florida
+Ben Niemann	Kansas City Chiefs	LB	56	25	"6' 2"""	235 lbs	3	Iowa
+Bopete Keyes	Kansas City Chiefs	CB	29	22	"6' 1"""	202 lbs	R	Tulane
+Byron Pringle	Kansas City Chiefs	WR	13	26	"6' 1"""	203 lbs	3	Kansas State
+Chad Henne	Kansas City Chiefs	QB	4	35	"6' 3"""	222 lbs	13	Michigan
+Charvarius Ward	Kansas City Chiefs	CB	35	24	"6' 1"""	198 lbs	3	Middle Tennessee
+Chris Jones	Kansas City Chiefs	DT	95	26	"6' 6"""	310 lbs	5	Mississippi State
+Clyde Edwards-Helaire	Kansas City Chiefs	RB	25	21	"5' 8"""	209 lbs	R	LSU
+Damien Wilson	Kansas City Chiefs	LB	54	27	"6' 0"""	245 lbs	6	Minnesota
+Daniel Kilgore	Kansas City Chiefs	C	67	32	"6' 3"""	291 lbs	10	Appalachian State
+Daniel Sorensen	Kansas City Chiefs	S	49	30	"6' 2"""	208 lbs	7	BYU
+Darrel Williams	Kansas City Chiefs	RB	31	25	"5' 11"""	224 lbs	3	LSU
+Darwin Thompson	Kansas City Chiefs	RB	34	23	"5' 8"""	200 lbs	2	Utah State
+Demarcus Robinson	Kansas City Chiefs	WR	11	26	"6' 1"""	203 lbs	5	Florida
+Demone Harris	Kansas City Chiefs	DE	52	24	"6' 4"""	272 lbs	2	Buffalo
+Deon Yelder	Kansas City Chiefs	TE	82	25	"6' 4"""	255 lbs	3	Western Kentucky
+Derrick Nnadi	Kansas City Chiefs	DT	91	24	"6' 1"""	312 lbs	3	Florida State
+Dorian O'Daniel	Kansas City Chiefs	LB	44	26	"6' 1"""	220 lbs	3	Clemson
+Eric Fisher	Kansas City Chiefs	OT	72	29	"6' 7"""	315 lbs	8	Central Michigan
+Frank Clark	Kansas City Chiefs	DE	55	27	"6' 3"""	260 lbs	6	Michigan
+Harrison Butker	Kansas City Chiefs	PK	7	25	"6' 4"""	205 lbs	4	Georgia Tech
+James Winchester	Kansas City Chiefs	LS	41	31	"6' 3"""	240 lbs	6	Oklahoma
+Juan Thornhill	Kansas City Chiefs	S	22	24	"6' 0"""	205 lbs	2	Virginia
+Kelechi Osemele	Kansas City Chiefs	G	70	31	"6' 5"""	330 lbs	9	Iowa State
+L'Jarius Sneed	Kansas City Chiefs	S	38	23	"6' 1"""	193 lbs	R	Louisiana Tech
+Marcus Kemp	Kansas City Chiefs	WR	19	25	"6' 4"""	210 lbs	3	Hawai'i'
+Mecole Hardman	Kansas City Chiefs	WR	17	22	"5' 10"""	187 lbs	2	Georgia
+Mike Danna	Kansas City Chiefs	DE	51	22	"6' 2"""	261 lbs	R	Michigan
+Mike Pennel	Kansas City Chiefs	DT	64	29	"6' 4"""	332 lbs	7	Colorado State-Pueblo
+Mike Remmers	Kansas City Chiefs	OT	75	31	"6' 5"""	308 lbs	8	Oregon State
+Mitchell Schwartz	Kansas City Chiefs	OT	71	31	"6' 5"""	320 lbs	9	California
+Nick Allegretti	Kansas City Chiefs	G	73	24	"6' 4"""	320 lbs	2	Illinois
+Nick Keizer	Kansas City Chiefs	TE	48	25	"6' 4"""	251 lbs	1	Grand Valley State
+Patrick Mahomes	Kansas City Chiefs	QB	15	25	"6' 3"""	230 lbs	4	Texas Tech
+Rashad Fenton	Kansas City Chiefs	CB	27	23	"5' 11"""	188 lbs	2	South Carolina
+Ricky Seals-Jones	Kansas City Chiefs	TE	83	25	"6' 5"""	243 lbs	4	Texas A&M
+Sammy Watkins	Kansas City Chiefs	WR	14	27	"6' 1"""	211 lbs	7	Clemson
+Taco Charlton	Kansas City Chiefs	DE	94	25	"6' 6"""	270 lbs	4	Michigan
+Tanoh Kpassagnon	Kansas City Chiefs	DE	92	26	"6' 7"""	289 lbs	4	Villanova
+Tedric Thompson	Kansas City Chiefs	S	24	25	"6' 0"""	204 lbs	4	Colorado
+Tershawn Wharton	Kansas City Chiefs	DT	98	22	"6' 4"""	255 lbs	R	Missouri S & T
+Tommy Townsend	Kansas City Chiefs	P	5	23	"6' 1"""	176 lbs	R	Florida
+Travis Kelce	Kansas City Chiefs	TE	87	30	"6' 5"""	260 lbs	8	Cincinnati
+Tyrann Mathieu	Kansas City Chiefs	S	32	28	"5' 9"""	190 lbs	8	LSU
+Tyreek Hill	Kansas City Chiefs	WR	10	26	"5' 10"""	185 lbs	5	West Alabama
+Willie Gay	Kansas City Chiefs	LB	50	22	"6' 1"""	243 lbs	R	Mississippi State
+Yasir Durant	Kansas City Chiefs	OT	79	22	"6' 7"""	330 lbs	R	Missouri
+AJ Cole	Las Vegas Raiders	P	6	24	"6' 4"""	220 lbs	2	North Carolina State
+Alec Ingold	Las Vegas Raiders	FB	45	24	"6' 1"""	240 lbs	2	Wisconsin
+Amik Robertson	Las Vegas Raiders	CB	21	22	"5' 8"""	187 lbs	R	Louisiana Tech
+Andre James	Las Vegas Raiders	OT	68	23	"6' 4"""	300 lbs	2	UCLA
+Arden Key	Las Vegas Raiders	DE	99	24	"6' 5"""	240 lbs	3	LSU
+Brandon Parker	Las Vegas Raiders	OT	75	24	"6' 8"""	320 lbs	3	North Carolina A&T
+Bryan Edwards	Las Vegas Raiders	WR	89	21	"6' 3"""	215 lbs	R	South Carolina
+Carl Nassib	Las Vegas Raiders	DE	94	27	"6' 7"""	275 lbs	5	Penn State
+Clelin Ferrell	Las Vegas Raiders	DE	96	23	"6' 4"""	265 lbs	2	Clemson
+Cory Littleton	Las Vegas Raiders	LB	42	26	"6' 3"""	228 lbs	5	Washington
+Damon Arnette	Las Vegas Raiders	CB	20	24	"6' 0"""	195 lbs	R	Ohio State
+Daniel Carlson	Las Vegas Raiders	PK	2	25	"6' 5"""	215 lbs	3	Auburn
+Daniel Ross	Las Vegas Raiders	DT	93	27	"6' 3"""	305 lbs	4	--
+Darren Waller	Las Vegas Raiders	TE	83	28	"6' 6"""	255 lbs	4	Georgia Tech
+Denzelle Good	Las Vegas Raiders	OT	71	29	"6' 5"""	340 lbs	6	Mars Hill
+Derek Carr	Las Vegas Raiders	QB	4	29	"6' 3"""	210 lbs	7	Fresno State
+Derek Carrier	Las Vegas Raiders	TE	85	30	"6' 3"""	240 lbs	8	Beloit College
+Devontae Booker	Las Vegas Raiders	RB	23	28	"5' 11"""	219 lbs	5	Utah
+Erik Harris	Las Vegas Raiders	S	25	30	"6' 2"""	220 lbs	5	California (PA)
+Foster Moreau	Las Vegas Raiders	TE	87	23	"6' 4"""	250 lbs	2	LSU
+Gabe Jackson	Las Vegas Raiders	G	66	29	"6' 3"""	335 lbs	7	Mississippi State
+Henry Ruggs III	Las Vegas Raiders	WR	11	21	"6' 0"""	190 lbs	R	Alabama
+Hunter Renfrow	Las Vegas Raiders	WR	13	24	"5' 10"""	185 lbs	2	Clemson
+Isaiah Johnson	Las Vegas Raiders	CB	31	24	"6' 2"""	210 lbs	2	Houston
+Jalen Richard	Las Vegas Raiders	RB	30	26	"5' 8"""	205 lbs	5	Southern Miss
+Jason Witten	Las Vegas Raiders	TE	82	38	"6' 6"""	263 lbs	17	Tennessee
+Jeff Heath	Las Vegas Raiders	S	38	29	"6' 1"""	212 lbs	8	Saginaw Valley
+John Simpson	Las Vegas Raiders	G	76	23	"6' 4"""	330 lbs	R	Clemson
+Johnathan Abram	Las Vegas Raiders	S	24	23	"6' 0"""	205 lbs	2	Mississippi State
+Johnathan Hankins	Las Vegas Raiders	DT	90	28	"6' 3"""	340 lbs	8	Ohio State
+Josh Jacobs	Las Vegas Raiders	RB	28	22	"5' 10"""	220 lbs	2	Alabama
+Keisean Nixon	Las Vegas Raiders	CB	22	23	"5' 10"""	200 lbs	2	South Carolina
+Kendal Vickers	Las Vegas Raiders	DE	91	25	"6' 3"""	295 lbs	1	Tennessee
+Kolton Miller	Las Vegas Raiders	OT	74	24	"6' 8"""	325 lbs	3	UCLA
+Kyle Wilber	Las Vegas Raiders	LB	58	31	"6' 4"""	240 lbs	9	Wake Forest
+Lamarcus Joyner	Las Vegas Raiders	S	29	29	"5' 8"""	185 lbs	7	Florida State
+Maliek Collins	Las Vegas Raiders	DT	97	25	"6' 2"""	308 lbs	5	Nebraska
+Maurice Hurst	Las Vegas Raiders	DT	73	25	"6' 1"""	291 lbs	3	Michigan
+Maxx Crosby	Las Vegas Raiders	DE	98	23	"6' 5"""	255 lbs	2	Eastern Michigan
+Nathan Peterman	Las Vegas Raiders	QB	3	26	"6' 2"""	225 lbs	4	Pittsburgh
+Nelson Agholor	Las Vegas Raiders	WR	15	27	"6' 0"""	198 lbs	6	USC
+Nevin Lawson	Las Vegas Raiders	CB	26	29	"5' 9"""	190 lbs	7	Utah State
+Nicholas Morrow	Las Vegas Raiders	LB	50	25	"6' 0"""	225 lbs	4	--
+Nick Kwiatkoski	Las Vegas Raiders	LB	44	27	"6' 2"""	242 lbs	5	West Virginia
+Patrick Omameh	Las Vegas Raiders	G	78	30	"6' 4"""	327 lbs	8	Michigan
+Raekwon McMillan	Las Vegas Raiders	LB	54	24	"6' 2"""	242 lbs	3	Ohio State
+Rico Gafford	Las Vegas Raiders	WR	10	24	"5' 10"""	184 lbs	1	Wyoming
+Rodney Hudson	Las Vegas Raiders	C	61	31	"6' 2"""	315 lbs	10	Florida State
+Sam Young	Las Vegas Raiders	OT	70	33	"6' 8"""	302 lbs	11	Notre Dame
+Trayvon Mullen	Las Vegas Raiders	CB	27	23	"6' 2"""	200 lbs	2	Clemson
+Trent Brown	Las Vegas Raiders	OT	77	27	"6' 8"""	380 lbs	6	Florida
+Trent Sieg	Las Vegas Raiders	LS	47	25	"6' 3"""	240 lbs	3	Colorado State
+Zay Jones	Las Vegas Raiders	WR	12	25	"6' 2"""	200 lbs	4	East Carolina
+Alohi Gilman	Los Angeles Chargers	S	32	23	"5' 10"""	201 lbs	R	Notre Dame
+Asmar Bilal	Los Angeles Chargers	LB	57	23	"6' 2"""	230 lbs	R	Notre Dame
+Austin Ekeler	Los Angeles Chargers	RB	30	25	"5' 10"""	200 lbs	4	Western State
+Brandon Facyson	Los Angeles Chargers	CB	28	26	"6' 2"""	197 lbs	3	Virginia Tech
+Bryan Bulaga	Los Angeles Chargers	OT	75	31	"6' 5"""	314 lbs	11	Iowa
+Casey Hayward Jr.	Los Angeles Chargers	CB	26	31	"5' 11"""	192 lbs	9	Vanderbilt
+Chris Harris Jr.	Los Angeles Chargers	CB	25	31	"5' 10"""	199 lbs	10	Kansas
+Cole Mazza	Los Angeles Chargers	LS	45	25	"6' 1"""	247 lbs	2	Alabama
+Cortez Broughton	Los Angeles Chargers	DT	91	24	"6' 2"""	293 lbs	2	Cincinnati
+Damion Square	Los Angeles Chargers	NT	71	31	"6' 2"""	293 lbs	8	Alabama
+Dan Feeney	Los Angeles Chargers	G	66	26	"6' 4"""	310 lbs	4	Indiana
+Denzel Perryman	Los Angeles Chargers	LB	52	27	"5' 11"""	240 lbs	6	Miami (FL)
+Desmond King II	Los Angeles Chargers	CB	20	25	"5' 10"""	200 lbs	4	Iowa
+Donald Parham Jr.	Los Angeles Chargers	TE	89	23	"6' 8"""	237 lbs	1	Stetson
+Easton Stick	Los Angeles Chargers	QB	2	25	"6' 1"""	224 lbs	2	North Dakota State
+Emeke Egbule	Los Angeles Chargers	LB	51	23	"6' 2"""	245 lbs	2	Houston
+Forrest Lamp	Los Angeles Chargers	G	76	26	"6' 4"""	310 lbs	4	Western Kentucky
+Gabe Nabers	Los Angeles Chargers	FB	40	22	"6' 3"""	235 lbs	R	Florida State
+Hunter Henry	Los Angeles Chargers	TE	86	25	"6' 5"""	250 lbs	5	Arkansas
+Isaac Rochell	Los Angeles Chargers	DE	98	25	"6' 4"""	280 lbs	3	Notre Dame
+Jalen Guyton	Los Angeles Chargers	WR	15	23	"6' 1"""	212 lbs	1	North Texas
+Jason Moore	Los Angeles Chargers	WR	11	25	"6' 2"""	215 lbs	2	Findlay
+Jerry Tillery	Los Angeles Chargers	DT	99	23	"6' 6"""	295 lbs	2	Notre Dame
+Joe Reed	Los Angeles Chargers	WR	12	22	"6' 0"""	224 lbs	R	Virginia
+Joey Bosa	Los Angeles Chargers	DE	97	25	"6' 5"""	280 lbs	5	Ohio State
+Joshua Kelley	Los Angeles Chargers	RB	27	22	"5' 11"""	212 lbs	R	UCLA
+Justin Herbert	Los Angeles Chargers	QB	10	22	"6' 6"""	236 lbs	R	Oregon
+Justin Jackson	Los Angeles Chargers	RB	22	24	"6' 0"""	199 lbs	3	Northwestern
+Justin Jones	Los Angeles Chargers	DT	93	24	"6' 3"""	309 lbs	3	North Carolina State
+Keenan Allen	Los Angeles Chargers	WR	13	28	"6' 2"""	211 lbs	8	California
+Kenneth Murray Jr.	Los Angeles Chargers	LB	56	21	"6' 2"""	241 lbs	R	Oklahoma
+KJ Hill Jr.	Los Angeles Chargers	WR	84	23	"6' 0"""	195 lbs	R	Ohio State
+Kyzir White	Los Angeles Chargers	LB	44	24	"6' 2"""	216 lbs	3	West Virginia
+Linval Joseph	Los Angeles Chargers	DT	95	31	"6' 4"""	329 lbs	11	East Carolina
+Melvin Ingram III	Los Angeles Chargers	DE	54	31	"6' 2"""	247 lbs	9	South Carolina
+Michael Badgley	Los Angeles Chargers	PK	4	25	"5' 10"""	183 lbs	3	Miami (FL)
+Michael Davis	Los Angeles Chargers	CB	43	25	"6' 2"""	195 lbs	4	BYU
+Mike Williams	Los Angeles Chargers	WR	81	25	"6' 4"""	218 lbs	4	Clemson
+Nasir Adderley	Los Angeles Chargers	S	24	23	"6' 0"""	206 lbs	2	Delaware
+Nick Vigil	Los Angeles Chargers	LB	59	27	"6' 2"""	235 lbs	5	Utah State
+Rayshawn Jenkins	Los Angeles Chargers	S	23	26	"6' 1"""	220 lbs	4	Miami (FL)
+Sam Tevi	Los Angeles Chargers	OT	69	25	"6' 5"""	315 lbs	4	Utah
+Scott Quessenberry	Los Angeles Chargers	C	61	25	"6' 3"""	310 lbs	3	UCLA
+Stephen Anderson	Los Angeles Chargers	TE	82	27	"6' 3"""	230 lbs	3	California
+Storm Norton	Los Angeles Chargers	OT	74	26	"6' 7"""	317 lbs	1	Toledo
+Tevaughn Campbell	Los Angeles Chargers	CB	37	27	"6' 0"""	200 lbs	1	U Regina ca
+Trai Turner	Los Angeles Chargers	G	70	27	"6' 3"""	315 lbs	7	LSU
+Trey Pipkins III	Los Angeles Chargers	OT	79	24	"6' 6"""	307 lbs	2	Sioux Falls
+Ty Long	Los Angeles Chargers	P	1	27	"6' 2"""	205 lbs	2	UAB
+Tyree St. Louis	Los Angeles Chargers	OT	73	23	"6' 5"""	315 lbs	1	Miami (FL)
+Tyrod Taylor	Los Angeles Chargers	QB	5	31	"6' 1"""	215 lbs	10	Virginia Tech
+Uchenna Nwosu	Los Angeles Chargers	LB	42	23	"6' 2"""	251 lbs	3	USC
+Virgil Green	Los Angeles Chargers	TE	88	32	"6' 5"""	255 lbs	10	Nevada
+Aaron Donald	Los Angeles Rams	DT	99	29	"6' 1"""	280 lbs	7	Pittsburgh
+Andrew Whitworth	Los Angeles Rams	OT	77	38	"6' 7"""	330 lbs	15	LSU
+Austin Blythe	Los Angeles Rams	C	66	28	"6' 3"""	298 lbs	5	Iowa
+Austin Corbett	Los Angeles Rams	C	63	25	"6' 4"""	306 lbs	3	Nevada
+Bobby Evans	Los Angeles Rams	OT	71	23	"6' 4"""	312 lbs	2	Oklahoma
+Brian Allen	Los Angeles Rams	C	55	24	"6' 2"""	303 lbs	3	Michigan State
+Brycen Hopkins	Los Angeles Rams	TE	88	23	"6' 4"""	245 lbs	R	Purdue
+Cam Akers	Los Angeles Rams	RB	23	21	"5' 10"""	217 lbs	R	Florida State
+Coleman Shelton	Los Angeles Rams	C	65	25	"6' 4"""	299 lbs	2	Washington
+Cooper Kupp	Los Angeles Rams	WR	10	27	"6' 2"""	208 lbs	4	Eastern Washington
+Darious Williams	Los Angeles Rams	CB	31	27	"5' 9"""	187 lbs	3	UAB
+Darrell Henderson Jr.	Los Angeles Rams	RB	27	23	"5' 8"""	208 lbs	2	Memphis
+David Edwards	Los Angeles Rams	OT	73	23	"6' 6"""	308 lbs	2	Wisconsin
+David Long Jr.	Los Angeles Rams	CB	25	22	"5' 11"""	196 lbs	2	Michigan
+Eric Banks	Los Angeles Rams	DE	98	22	"6' 5"""	274 lbs	R	UTSA
+Gerald Everett	Los Angeles Rams	TE	81	26	"6' 3"""	240 lbs	4	South Alabama
+Greg Gaines	Los Angeles Rams	DT	91	24	"6' 1"""	312 lbs	2	Washington
+Jachai Polite	Los Angeles Rams	LB	95	22	"6' 3"""	258 lbs	1	Florida
+Jake McQuaide	Los Angeles Rams	LS	44	32	"6' 2"""	235 lbs	10	Ohio State
+Jalen Ramsey	Los Angeles Rams	CB	20	25	"6' 1"""	208 lbs	5	Florida State
+Jared Goff	Los Angeles Rams	QB	16	25	"6' 4"""	222 lbs	5	California
+John Johnson III	Los Angeles Rams	S	43	24	"6' 0"""	209 lbs	4	Boston College
+John Wolford	Los Angeles Rams	QB	9	24	"6' 1"""	200 lbs	1	Wake Forest
+Johnny Hekker	Los Angeles Rams	P	6	30	"6' 5"""	241 lbs	9	Oregon State
+Johnny Mundt	Los Angeles Rams	TE	82	25	"6' 4"""	233 lbs	3	Oregon
+Jordan Fuller	Los Angeles Rams	S	32	22	"6' 2"""	203 lbs	R	Ohio State
+Josh Reynolds	Los Angeles Rams	WR	11	25	"6' 3"""	196 lbs	4	Texas A&M
+Justin Hollins	Los Angeles Rams	LB	58	24	"6' 5"""	248 lbs	2	Oregon
+Kenny Young	Los Angeles Rams	LB	41	25	"6' 1"""	234 lbs	3	UCLA
+Leonard Floyd	Los Angeles Rams	LB	54	28	"6' 5"""	240 lbs	5	Georgia
+Malcolm Brown	Los Angeles Rams	RB	34	27	"5' 11"""	222 lbs	5	Texas
+Micah Kiser	Los Angeles Rams	LB	59	25	"6' 0"""	244 lbs	3	Virginia
+Michael Brockers	Los Angeles Rams	DT	90	29	"6' 5"""	305 lbs	9	LSU
+Morgan Fox	Los Angeles Rams	DE	97	26	"6' 3"""	275 lbs	4	Colorado State-Pueblo
+Natrez Patrick	Los Angeles Rams	LB	57	23	"6' 3"""	242 lbs	2	Georgia
+Nick Scott	Los Angeles Rams	S	33	25	"5' 11"""	200 lbs	2	Penn State
+Nsimba Webster	Los Angeles Rams	WR	14	24	"5' 10"""	180 lbs	2	Eastern Washington
+Ogbonnia Okoronkwo	Los Angeles Rams	LB	45	25	"6' 2"""	253 lbs	3	Oklahoma
+Raymond Calais	Los Angeles Rams	RB		22	"5' 9"""	188 lbs	R	Louisiana-Lafayette
+Rob Havenstein	Los Angeles Rams	OT	79	28	"6' 8"""	330 lbs	6	Wisconsin
+Robert Woods	Los Angeles Rams	WR	17	28	"6' 0"""	195 lbs	8	USC
+Samson Ebukam	Los Angeles Rams	LB	50	25	"6' 3"""	245 lbs	4	Eastern Washington
+Samuel Sloman	Los Angeles Rams	PK	1	23	"5' 8"""	205 lbs	R	Miami (OH)
+Sebastian Joseph-Day	Los Angeles Rams	DT	69	25	"6' 4"""	310 lbs	3	Rutgers
+Taylor Rapp	Los Angeles Rams	S	24	22	"6' 0"""	208 lbs	2	Washington
+Terrell Burgess	Los Angeles Rams	S	26	23	"5' 11"""	202 lbs	R	Utah
+Tremayne Anchrum Jr.	Los Angeles Rams	G	72	22	"6' 2"""	314 lbs	R	Clemson
+Trishton Jackson	Los Angeles Rams	WR	83	22	"6' 1"""	191 lbs	R	Syracuse
+Troy Hill	Los Angeles Rams	CB	22	29	"5' 11"""	183 lbs	5	Oregon
+Troy Reeder	Los Angeles Rams	LB	51	26	"6' 3"""	245 lbs	2	Delaware
+Tyler Higbee	Los Angeles Rams	TE	89	27	"6' 6"""	255 lbs	5	Western Kentucky
+Van Jefferson	Los Angeles Rams	WR	12	24	"6' 1"""	200 lbs	R	Florida
+Xavier Jones	Los Angeles Rams	RB	35	23	"5' 11"""	208 lbs	R	SMU
+Adam Pankey	Miami Dolphins	OT	78	26	"6' 5"""	306 lbs	3	West Virginia
+Adam Shaheen	Miami Dolphins	TE	80	25	"6' 7"""	257 lbs	4	Ashland
+Andrew Van Ginkel	Miami Dolphins	LB	43	25	"6' 4"""	242 lbs	2	Wisconsin
+Austin Jackson	Miami Dolphins	OT	73	21	"6' 5"""	325 lbs	R	USC
+Blake Ferguson	Miami Dolphins	LS	50	23	"6' 3"""	231 lbs	R	LSU
+Bobby McCain	Miami Dolphins	S	28	27	"5' 11"""	192 lbs	6	Memphis
+Brandon Jones	Miami Dolphins	S	29	22	"6' 0"""	191 lbs	R	Texas
+Byron Jones	Miami Dolphins	CB	24	27	"6' 1"""	205 lbs	6	Connecticut
+Calvin Munson	Miami Dolphins	LB	48	25	"6' 0"""	245 lbs	2	San Diego State
+Chandler Cox	Miami Dolphins	FB	27	24	"6' 1"""	240 lbs	2	Auburn
+Christian Wilkins	Miami Dolphins	DT	94	24	"6' 4"""	315 lbs	2	Clemson
+Clayton Fejedelem	Miami Dolphins	S	42	27	"6' 0"""	205 lbs	5	Illinois
+Davon Godchaux	Miami Dolphins	DT	56	25	"6' 3"""	311 lbs	4	LSU
+DeVante Parker	Miami Dolphins	WR	11	27	"6' 3"""	211 lbs	6	Louisville
+Durham Smythe	Miami Dolphins	TE	81	25	"6' 6"""	260 lbs	3	Notre Dame
+Elandon Roberts	Miami Dolphins	LB	44	26	"6' 0"""	238 lbs	5	Houston
+Emmanuel Ogbah	Miami Dolphins	DE	91	26	"6' 4"""	275 lbs	5	Oklahoma State
+Ereck Flowers	Miami Dolphins	OT	75	26	"6' 6"""	343 lbs	6	Miami (FL)
+Eric Rowe	Miami Dolphins	S	21	27	"6' 1"""	205 lbs	6	Utah
+Isaiah Ford	Miami Dolphins	WR	84	24	"6' 2"""	201 lbs	3	Virginia Tech
+Jakeem Grant	Miami Dolphins	WR	19	27	"5' 7"""	171 lbs	5	Texas Tech
+Jamal Perry	Miami Dolphins	CB	33	25	"5' 10"""	189 lbs	2	Iowa State
+Jason Sanders	Miami Dolphins	PK	7	24	"5' 11"""	195 lbs	3	New Mexico
+Jason Strowbridge	Miami Dolphins	DE	58	24	"6' 5"""	273 lbs	R	North Carolina
+Jerome Baker	Miami Dolphins	LB	55	23	"6' 2"""	225 lbs	3	Ohio State
+Jesse Davis	Miami Dolphins	OT	77	29	"6' 6"""	310 lbs	4	Idaho
+Jordan Howard	Miami Dolphins	RB	34	25	"6' 0"""	232 lbs	5	Indiana
+Julie'n Davenport	Miami Dolphins	OT	70	25	"6' 7"""	313 lbs	4	Bucknell
+Kamu Grugier-Hill	Miami Dolphins	LB	51	26	"6' 2"""	223 lbs	5	Eastern Illinois
+Kavon Frazier	Miami Dolphins	S	35	26	"6' 0"""	220 lbs	5	Central Michigan
+Kyle Van Noy	Miami Dolphins	LB	53	29	"6' 3"""	250 lbs	7	BYU
+Lynn Bowden Jr.	Miami Dolphins	WR	15	22	"5' 11"""	204 lbs	R	Kentucky
+Mack Hollins	Miami Dolphins	WR	86	27	"6' 4"""	221 lbs	4	North Carolina
+Malcolm Perry	Miami Dolphins	RB	10	23	"5' 10"""	175 lbs	R	Navy
+Matt Breida	Miami Dolphins	RB	22	25	"5' 10"""	195 lbs	4	Georgia Southern
+Matt Haack	Miami Dolphins	P	2	26	"6' 0"""	205 lbs	4	Arizona State
+Michael Deiter	Miami Dolphins	G	63	24	"6' 6"""	310 lbs	2	Wisconsin
+Mike Gesicki	Miami Dolphins	TE	88	24	"6' 6"""	250 lbs	3	Penn State
+Myles Gaskin	Miami Dolphins	RB	37	23	"5' 10"""	194 lbs	2	Washington
+Nik Needham	Miami Dolphins	CB	40	23	"6' 0"""	193 lbs	2	UTEP
+Noah Igbinoghene	Miami Dolphins	CB	23	20	"5' 11"""	197 lbs	R	Auburn
+Patrick Laird	Miami Dolphins	RB	32	25	"6' 0"""	205 lbs	2	California
+Preston Williams	Miami Dolphins	WR	18	23	"6' 5"""	218 lbs	2	Colorado State
+Raekwon Davis	Miami Dolphins	DT	98	23	"6' 7"""	330 lbs	R	Alabama
+Robert Hunt	Miami Dolphins	OT	68	24	"6' 6"""	323 lbs	R	Louisiana-Lafayette
+Ryan Fitzpatrick	Miami Dolphins	QB	14	37	"6' 2"""	228 lbs	16	Harvard
+Sam Eguavoen	Miami Dolphins	LB	49	27	"6' 0"""	236 lbs	2	Texas Tech
+Shaq Lawson	Miami Dolphins	DE	90	26	"6' 3"""	267 lbs	5	Clemson
+Solomon Kindley	Miami Dolphins	G	66	23	"6' 4"""	339 lbs	R	Georgia
+Ted Karras	Miami Dolphins	C	67	27	"6' 4"""	305 lbs	5	Illinois
+Tua Tagovailoa	Miami Dolphins	QB	1	22	"6' 0"""	217 lbs	R	Alabama
+Xavien Howard	Miami Dolphins	CB	25	27	"6' 1"""	198 lbs	5	Baylor
+Zach Sieler	Miami Dolphins	DT	92	25	"6' 6"""	297 lbs	3	Ferris State
+Adam Thielen	Minnesota Vikings	WR	19	30	"6' 2"""	200 lbs	7	Minnesota State-Mankato
+Alexander Mattison	Minnesota Vikings	RB	25	22	"5' 11"""	220 lbs	2	Boise State
+Ameer Abdullah	Minnesota Vikings	RB	31	27	"5' 9"""	203 lbs	6	Nebraska
+Anthony Harris	Minnesota Vikings	S	41	28	"6' 1"""	202 lbs	6	Virginia
+Armon Watts	Minnesota Vikings	DT	96	24	"6' 5"""	295 lbs	2	Arkansas
+Austin Cutting	Minnesota Vikings	LS	58	23	"6' 3"""	245 lbs	2	Air Force
+Bisi Johnson	Minnesota Vikings	WR	81	23	"6' 0"""	204 lbs	2	Colorado State
+Brett Jones	Minnesota Vikings	C	61	29	"6' 2"""	315 lbs	6	U Regina ca
+Brian O'Neill	Minnesota Vikings	OT	75	25	"6' 7"""	297 lbs	3	Pittsburgh
+Britton Colquitt	Minnesota Vikings	P	2	35	"6' 3"""	210 lbs	11	Tennessee
+C.J. Ham	Minnesota Vikings	FB	30	27	"5' 11"""	235 lbs	4	Augustana (SD)
+Cameron Dantzler	Minnesota Vikings	CB	27	22	"6' 2"""	188 lbs	R	Mississippi State
+Chad Beebe	Minnesota Vikings	WR	12	26	"5' 10"""	183 lbs	3	Northern Illinois
+D.J. Wonnum	Minnesota Vikings	DE	98	22	"6' 5"""	258 lbs	R	South Carolina
+Dakota Dozier	Minnesota Vikings	G	78	29	"6' 4"""	312 lbs	7	Furman
+Dalvin Cook	Minnesota Vikings	RB	33	25	"5' 10"""	210 lbs	4	Florida State
+Dan Bailey	Minnesota Vikings	PK	5	32	"6' 0"""	190 lbs	10	Oklahoma State
+Dan Chisena	Minnesota Vikings	WR	85	23	"6' 3"""	202 lbs	R	Penn State
+Dru Samia	Minnesota Vikings	G	73	23	"6' 5"""	308 lbs	2	Oklahoma
+Eddie Yarbrough	Minnesota Vikings	DE	52	27	"6' 3"""	259 lbs	3	Wyoming
+Eric Kendricks	Minnesota Vikings	LB	54	28	"6' 0"""	232 lbs	6	UCLA
+Eric Wilson	Minnesota Vikings	LB	50	25	"6' 1"""	230 lbs	4	Cincinnati
+Ezra Cleveland	Minnesota Vikings	OT	72	22	"6' 6"""	311 lbs	R	Boise State
+Garrett Bradbury	Minnesota Vikings	C	56	25	"6' 3"""	305 lbs	2	North Carolina State
+Hardy Nickerson	Minnesota Vikings	LB	47	26	"6' 0"""	235 lbs	4	Illinois
+Harrison Hand	Minnesota Vikings	CB	38	21	"5' 11"""	197 lbs	R	Temple
+Harrison Smith	Minnesota Vikings	S	22	31	"6' 2"""	214 lbs	9	Notre Dame
+Hercules Mata'afa	Minnesota Vikings	DT	51	25	"6' 2"""	254 lbs	3	Washington State
+Holton Hill	Minnesota Vikings	CB	24	23	"6' 2"""	196 lbs	3	Texas
+Ifeadi Odenigbo	Minnesota Vikings	DE	95	26	"6' 3"""	258 lbs	3	Northwestern
+Irv Smith Jr.	Minnesota Vikings	TE	84	22	"6' 2"""	242 lbs	2	Alabama
+Jaleel Johnson	Minnesota Vikings	DT	94	26	"6' 3"""	316 lbs	4	Iowa
+Jalyn Holmes	Minnesota Vikings	DE	90	24	"6' 5"""	283 lbs	3	Ohio State
+James Lynch	Minnesota Vikings	DT	66	21	"6' 4"""	289 lbs	R	Baylor
+Jeff Gladney	Minnesota Vikings	CB	20	23	"5' 10"""	191 lbs	R	TCU
+Josh Metellus	Minnesota Vikings	S	44	22	"5' 11"""	209 lbs	R	Michigan
+Justin Jefferson	Minnesota Vikings	WR	18	21	"6' 1"""	202 lbs	R	LSU
+K.J. Osborn	Minnesota Vikings	WR	17	23	"5' 11"""	203 lbs	R	Miami (FL)
+Kirk Cousins	Minnesota Vikings	QB	8	32	"6' 3"""	202 lbs	9	Michigan State
+Kris Boyd	Minnesota Vikings	CB	29	24	"5' 11"""	200 lbs	2	Texas
+Kyle Rudolph	Minnesota Vikings	TE	82	30	"6' 6"""	265 lbs	10	Notre Dame
+Mike Boone	Minnesota Vikings	RB	23	25	"5' 10"""	206 lbs	3	Cincinnati
+Mike Hughes	Minnesota Vikings	CB	21	23	"5' 10"""	189 lbs	3	UCF
+Oli Udoh	Minnesota Vikings	OT	74	23	"6' 6"""	325 lbs	2	Elon
+Rashod Hill	Minnesota Vikings	OT	69	28	"6' 6"""	313 lbs	5	Southern Miss
+Riley Reiff	Minnesota Vikings	OT	71	31	"6' 6"""	305 lbs	9	Iowa
+Ryan Connelly	Minnesota Vikings	LB	57	24	"6' 2"""	236 lbs	2	Wisconsin
+Sean Mannion	Minnesota Vikings	QB	4	28	"6' 6"""	230 lbs	6	Oregon State
+Shamar Stephen	Minnesota Vikings	DT	93	29	"6' 5"""	309 lbs	7	Connecticut
+Tajae Sharpe	Minnesota Vikings	WR	11	25	"6' 4"""	194 lbs	5	Massachusetts
+Todd Davis	Minnesota Vikings	LB	40	28	"6' 1"""	230 lbs	7	Sacramento State
+Tyler Conklin	Minnesota Vikings	TE	83	25	"6' 3"""	254 lbs	3	Central Michigan
+Yannick Ngakoue	Minnesota Vikings	DE	91	25	"6' 2"""	246 lbs	5	Maryland
+Adam Butler	New England Patriots	DT	70	26	"6' 5"""	300 lbs	4	Vanderbilt
+Adrian Phillips	New England Patriots	S	21	28	"5' 11"""	210 lbs	6	Texas
+Anfernee Jennings	New England Patriots	LB	58	23	"6' 3"""	259 lbs	R	Alabama
+Brandon Copeland	New England Patriots	LB	52	29	"6' 3"""	263 lbs	6	Pennsylvania
+Brian Hoyer	New England Patriots	QB	2	34	"6' 2"""	216 lbs	12	Michigan State
+Byron Cowart	New England Patriots	DT	99	24	"6' 3"""	300 lbs	2	Maryland
+Cam Newton	New England Patriots	QB	1	31	"6' 5"""	245 lbs	10	Auburn
+Cassh Maluia	New England Patriots	LB	46	21	"6' 0"""	248 lbs	R	Wyoming
+Chase Winovich	New England Patriots	DE	50	25	"6' 3"""	250 lbs	2	Michigan
+Cody Davis	New England Patriots	S	22	31	"6' 2"""	203 lbs	8	Texas Tech
+Dalton Keene	New England Patriots	TE	44	21	"6' 4"""	251 lbs	R	Virginia Tech
+Damiere Byrd	New England Patriots	WR	10	27	"5' 9"""	180 lbs	5	South Carolina
+David Andrews	New England Patriots	C	60	28	"6' 3"""	300 lbs	6	Georgia
+Deatrich Wise Jr.	New England Patriots	DE	91	26	"6' 5"""	275 lbs	4	Arkansas
+Derek Rivers	New England Patriots	DE	95	26	"6' 5"""	250 lbs	4	Youngstown State
+Devin Asiasi	New England Patriots	TE	86	23	"6' 3"""	257 lbs	R	UCLA
+Devin McCourty	New England Patriots	S	32	33	"5' 10"""	195 lbs	11	Rutgers
+Hjalte Froholdt	New England Patriots	G	64	24	"6' 5"""	310 lbs	2	Arkansas
+Isaiah Wynn	New England Patriots	OT	76	24	"6' 2"""	310 lbs	3	Georgia
+J.C. Jackson	New England Patriots	CB	27	24	"6' 1"""	198 lbs	3	Maryland
+J.J. Taylor	New England Patriots	RB	42	22	"5' 6"""	185 lbs	R	Arizona
+Jake Bailey	New England Patriots	P	7	23	"6' 2"""	205 lbs	2	Stanford
+Jakob Johnson	New England Patriots	FB	47	25	"6' 3"""	255 lbs	2	Tennessee
+Jakobi Meyers	New England Patriots	WR	16	23	"6' 2"""	200 lbs	2	North Carolina State
+James White	New England Patriots	RB	28	28	"5' 10"""	205 lbs	7	Wisconsin
+Jarrett Stidham	New England Patriots	QB	4	24	"6' 3"""	215 lbs	2	Auburn
+Jason McCourty	New England Patriots	CB	30	33	"5' 11"""	195 lbs	12	Rutgers
+Ja'Whaun Bentley	New England Patriots	LB	51	24	"6' 2"""	255 lbs	3	Purdue
+Jermaine Eluemunor	New England Patriots	G	72	25	"6' 4"""	335 lbs	4	Texas A&M
+Joe Cardona	New England Patriots	LS	49	28	"6' 3"""	245 lbs	6	Navy
+Joe Thuney	New England Patriots	G	62	27	"6' 5"""	308 lbs	5	North Carolina State
+Joejuan Williams	New England Patriots	CB	33	22	"6' 3"""	212 lbs	2	Vanderbilt
+John Simon	New England Patriots	DE	55	29	"6' 2"""	260 lbs	8	Ohio State
+Jonathan Jones	New England Patriots	CB	31	27	"5' 10"""	190 lbs	5	Auburn
+Josh Uche	New England Patriots	LB	53	22	"6' 3"""	226 lbs	R	Michigan
+Julian Edelman	New England Patriots	WR	11	34	"5' 10"""	198 lbs	12	Kent State
+Justin Bethel	New England Patriots	CB	29	30	"6' 0"""	200 lbs	9	Presbyterian
+Justin Herron	New England Patriots	OT	75	24	"6' 5"""	305 lbs	R	Wake Forest
+Korey Cunningham	New England Patriots	OT	74	25	"6' 6"""	311 lbs	3	Cincinnati
+Kyle Dugger	New England Patriots	S	35	24	"6' 2"""	220 lbs	R	Lenoir-Rhyne
+Lawrence Guy	New England Patriots	DE	93	30	"6' 4"""	315 lbs	10	Arizona State
+Matthew Slater	New England Patriots	WR	18	35	"6' 0"""	205 lbs	13	UCLA
+Mike Onwenu	New England Patriots	G	71	22	"6' 3"""	350 lbs	R	Michigan
+Myles Bryant	New England Patriots	CB	41	22	"5' 9"""	185 lbs	R	Washington
+Nick Folk	New England Patriots	PK	6	35	"6' 1"""	222 lbs	13	Arizona
+N'Keal Harry	New England Patriots	WR	15	22	"6' 4"""	225 lbs	2	Arizona State
+Rex Burkhead	New England Patriots	RB	34	30	"5' 10"""	215 lbs	8	Nebraska
+Ryan Izzo	New England Patriots	TE	85	24	"6' 5"""	255 lbs	3	Florida State
+Shaq Mason	New England Patriots	G	69	27	"6' 1"""	310 lbs	6	Georgia Tech
+Shilique Calhoun	New England Patriots	LB	90	28	"6' 4"""	260 lbs	5	Michigan State
+Sony Michel	New England Patriots	RB	26	25	"5' 11"""	215 lbs	3	Georgia
+Stephon Gilmore	New England Patriots	CB	24	30	"6' 1"""	202 lbs	9	South Carolina
+Terrence Brooks	New England Patriots	S	25	28	"5' 11"""	205 lbs	7	Florida State
+Adam Trautman	New Orleans Saints	TE	82	23	"6' 5"""	253 lbs	R	Dayton
+Alex Anzalone	New Orleans Saints	LB	47	26	"6' 3"""	241 lbs	4	Florida
+Alvin Kamara	New Orleans Saints	RB	41	25	"5' 10"""	215 lbs	4	Tennessee
+Andrus Peat	New Orleans Saints	OT	75	26	"6' 7"""	316 lbs	6	Stanford
+C.J. Gardner-Johnson	New Orleans Saints	S	22	22	"5' 11"""	210 lbs	2	Florida
+Cameron Jordan	New Orleans Saints	DE	94	31	"6' 4"""	287 lbs	10	California
+Carl Granderson	New Orleans Saints	DE	96	23	"6' 5"""	261 lbs	2	Wyoming
+Cesar Ruiz	New Orleans Saints	C	51	21	"6' 4"""	316 lbs	R	Michigan
+Chase Hansen	New Orleans Saints	LB	42	27	"6' 3"""	222 lbs	1	Utah
+Craig Robertson	New Orleans Saints	LB	52	32	"6' 1"""	234 lbs	9	North Texas
+D.J. Swearinger	New Orleans Saints	S	36	29	"5' 10"""	205 lbs	8	South Carolina
+David Onyemata	New Orleans Saints	DT	93	27	"6' 4"""	300 lbs	5	Manitoba
+Demario Davis	New Orleans Saints	LB	56	31	"6' 2"""	248 lbs	9	Arkansas State
+Deonte Harris	New Orleans Saints	WR	11	22	"5' 6"""	170 lbs	2	Assumption
+Derrick Kelly	New Orleans Saints	OT	68	25	"6' 5"""	320 lbs	1	Florida State
+Drew Brees	New Orleans Saints	QB	9	41	"6' 0"""	209 lbs	20	Purdue
+Dwayne Washington	New Orleans Saints	RB	24	26	"6' 1"""	223 lbs	5	Washington
+Emmanuel Sanders	New Orleans Saints	WR	17	33	"5' 11"""	180 lbs	11	SMU
+Erik McCoy	New Orleans Saints	C	78	23	"6' 4"""	303 lbs	2	Texas A&M
+Ethan Greenidge	New Orleans Saints	OT	73	23	"6' 4"""	335 lbs	2	Villanova
+J.T. Gray	New Orleans Saints	S	48	24	"6' 0"""	202 lbs	3	Mississippi State
+Jameis Winston	New Orleans Saints	QB	2	26	"6' 4"""	231 lbs	6	Florida State
+Janoris Jenkins	New Orleans Saints	CB	20	31	"5' 10"""	190 lbs	9	North Alabama
+Jared Cook	New Orleans Saints	TE	87	33	"6' 5"""	254 lbs	12	South Carolina
+Josh Hill	New Orleans Saints	TE	89	30	"6' 5"""	250 lbs	8	Idaho State
+Justin Hardee	New Orleans Saints	CB	34	26	"6' 1"""	200 lbs	4	Illinois
+Kaden Elliss	New Orleans Saints	LB	55	25	"6' 3"""	238 lbs	2	Idaho
+Latavius Murray	New Orleans Saints	RB	28	30	"6' 3"""	230 lbs	8	UCF
+Malcolm Jenkins	New Orleans Saints	S	27	32	"6' 0"""	204 lbs	12	Ohio State
+Malcolm Roach	New Orleans Saints	DE	97	22	"6' 3"""	290 lbs	R	Texas
+Malcom Brown	New Orleans Saints	DT	90	26	"6' 2"""	320 lbs	6	Texas
+Marcus Davenport	New Orleans Saints	DE	92	24	"6' 6"""	265 lbs	3	UTSA
+Marcus Williams	New Orleans Saints	S	43	24	"6' 1"""	195 lbs	4	Utah
+Marquez Callaway	New Orleans Saints	WR	12	22	"6' 2"""	204 lbs	R	Tennessee
+Marshon Lattimore	New Orleans Saints	CB	23	24	"6' 0"""	192 lbs	4	Ohio State
+Michael Burton	New Orleans Saints	FB	32	28	"6' 0"""	240 lbs	6	Rutgers
+Michael Thomas	New Orleans Saints	WR	13	27	"6' 3"""	212 lbs	5	Ohio State
+Nick Easton	New Orleans Saints	C	62	28	"6' 3"""	303 lbs	6	Harvard
+P.J. Williams	New Orleans Saints	CB	26	27	"6' 0"""	196 lbs	6	Florida State
+Patrick Robinson	New Orleans Saints	CB	21	33	"5' 11"""	191 lbs	11	Florida State
+Ryan Ramczyk	New Orleans Saints	OT	71	26	"6' 6"""	314 lbs	4	Wisconsin
+Sheldon Rankins	New Orleans Saints	DT	98	26	"6' 2"""	305 lbs	5	Louisville
+Shy Tuttle	New Orleans Saints	DT	99	24	"6' 3"""	300 lbs	2	Tennessee
+Taysom Hill	New Orleans Saints	QB	7	30	"6' 2"""	221 lbs	4	BYU
+Terron Armstead	New Orleans Saints	OT	72	29	"6' 5"""	304 lbs	8	Arkansas-Pine Bluff
+Thomas Morstead	New Orleans Saints	P	6	34	"6' 4"""	235 lbs	12	SMU
+Tre'Quan Smith	New Orleans Saints	WR	10	24	"6' 2"""	210 lbs	3	UCF
+Trey Hendrickson	New Orleans Saints	DE	91	25	"6' 4"""	270 lbs	4	Florida Atlantic
+Ty Montgomery	New Orleans Saints	RB	88	27	"6' 0"""	216 lbs	6	Stanford
+Wil Lutz	New Orleans Saints	PK	3	26	"5' 11"""	184 lbs	5	Georgia State
+Will Clapp	New Orleans Saints	C	64	24	"6' 5"""	311 lbs	3	LSU
+Zach Wood	New Orleans Saints	LS	49	27	"6' 3"""	255 lbs	4	SMU
+Zack Baun	New Orleans Saints	LB	53	23	"6' 3"""	225 lbs	R	Wisconsin
+Adrian Colbert	New York Giants	S	34	26	"6' 2"""	205 lbs	4	Miami (FL)
+Andrew Thomas	New York Giants	OT	78	21	"6' 5"""	315 lbs	R	Georgia
+Austin Johnson	New York Giants	DT	98	26	"6' 4"""	314 lbs	5	Penn State
+B.J. Hill	New York Giants	DT	95	25	"6' 3"""	310 lbs	3	North Carolina State
+Blake Martinez	New York Giants	LB	54	26	"6' 2"""	237 lbs	5	Stanford
+Brandon Williams	New York Giants	CB	28	28	"6' 0"""	200 lbs	5	Texas A&M
+C.J. Board	New York Giants	WR	18	26	"6' 1"""	181 lbs	2	Chattanooga
+Cam Brown	New York Giants	LB	47	22	"6' 5"""	233 lbs	R	Penn State
+Cameron Fleming	New York Giants	OT	75	28	"6' 5"""	320 lbs	7	Stanford
+Carter Coughlin	New York Giants	LB	49	23	"6' 3"""	236 lbs	R	Minnesota
+Casey Kreiter	New York Giants	LS	58	30	"6' 1"""	250 lbs	5	Iowa
+Colt McCoy	New York Giants	QB	12	34	"6' 1"""	212 lbs	11	Texas
+Corey Ballentine	New York Giants	CB	25	24	"6' 0"""	191 lbs	2	Washburn
+Dalvin Tomlinson	New York Giants	DT	94	26	"6' 3"""	318 lbs	4	Alabama
+Damion Ratley	New York Giants	WR	19	25	"6' 2"""	200 lbs	3	Texas A&M
+Daniel Jones	New York Giants	QB	8	23	"6' 5"""	220 lbs	2	Duke
+Darius Slayton	New York Giants	WR	86	23	"6' 1"""	194 lbs	2	Auburn
+Darnay Holmes	New York Giants	CB	30	22	"5' 10"""	195 lbs	R	UCLA
+Devante Downs	New York Giants	LB	52	24	"6' 2"""	252 lbs	3	California
+Devonta Freeman	New York Giants	RB	31	28	"5' 8"""	206 lbs	7	Florida State
+Dexter Lawrence	New York Giants	DT	97	22	"6' 4"""	342 lbs	2	Clemson
+Dion Lewis	New York Giants	RB	33	29	"5' 8"""	195 lbs	9	Pittsburgh
+Elijhaa Penny	New York Giants	RB	39	27	"6' 1"""	250 lbs	4	Idaho
+Eric Tomlinson	New York Giants	TE	83	28	"6' 6"""	263 lbs	5	UTEP
+Evan Engram	New York Giants	TE	88	26	"6' 3"""	240 lbs	4	Ole Miss
+Golden Tate	New York Giants	WR	15	32	"5' 11"""	191 lbs	11	Notre Dame
+Graham Gano	New York Giants	PK	5	33	"6' 2"""	202 lbs	11	Florida State
+Isaac Yiadom	New York Giants	CB	27	24	"6' 1"""	190 lbs	3	Boston College
+Jabrill Peppers	New York Giants	S	21	24	"5' 11"""	215 lbs	4	Michigan
+Jackson Barton	New York Giants	OT	72	25	"6' 7"""	302 lbs	2	Utah
+James Bradberry	New York Giants	CB	24	27	"6' 1"""	212 lbs	5	Samford
+Julian Love	New York Giants	CB	20	22	"5' 11"""	195 lbs	2	Notre Dame
+Kaden Smith	New York Giants	TE	82	23	"6' 5"""	249 lbs	2	Stanford
+Kevin Zeitler	New York Giants	G	70	30	"6' 4"""	330 lbs	9	Wisconsin
+Kyler Fackrell	New York Giants	LB	51	28	"6' 5"""	245 lbs	5	Utah State
+Leonard Williams	New York Giants	DE	99	26	"6' 5"""	302 lbs	6	USC
+Levine Toilolo	New York Giants	TE	85	29	"6' 8"""	268 lbs	8	Stanford
+Logan Ryan	New York Giants	CB	23	29	"5' 11"""	195 lbs	8	Rutgers
+Lorenzo Carter	New York Giants	LB	59	24	"6' 5"""	255 lbs	3	Georgia
+Markus Golden	New York Giants	LB	44	29	"6' 3"""	259 lbs	6	Missouri
+Matt Peart	New York Giants	OT	74	23	"6' 7"""	318 lbs	R	Connecticut
+Nate Ebner	New York Giants	S	43	31	"6' 0"""	215 lbs	9	Ohio State
+Nick Gates	New York Giants	G	65	24	"6' 6"""	318 lbs	3	Nebraska
+Oshane Ximines	New York Giants	LB	53	23	"6' 4"""	254 lbs	2	Old Dominion
+Riley Dixon	New York Giants	P	9	27	"6' 5"""	226 lbs	5	Syracuse
+RJ McIntosh	New York Giants	DT	90	24	"6' 5"""	293 lbs	3	Miami (FL)
+Ryan Lewis	New York Giants	CB	37	26	"6' 0"""	195 lbs	3	Pittsburgh
+Shane Lemieux	New York Giants	G	66	23	"6' 4"""	310 lbs	R	Oregon
+Spencer Pulley	New York Giants	C	77	27	"6' 4"""	309 lbs	5	Vanderbilt
+Tae Crowder	New York Giants	LB	48	23	"6' 1"""	235 lbs	R	Georgia
+TJ Brunson	New York Giants	LB	35	22	"6' 1"""	230 lbs	R	South Carolina
+Wayne Gallman	New York Giants	RB	22	25	"6' 0"""	216 lbs	4	Clemson
+Will Hernandez	New York Giants	G	71	25	"6' 3"""	332 lbs	3	UTEP
+Alec Ogletree	New York Jets	LB	52	28	"6' 3"""	250 lbs	8	Georgia
+Alex Lewis	New York Jets	G	71	28	"6' 6"""	305 lbs	5	Nebraska
+Ashtyn Davis	New York Jets	S	32	23	"6' 1"""	202 lbs	R	California
+Avery Williamson	New York Jets	LB	54	28	"6' 1"""	246 lbs	7	Kentucky
+Bless Austin	New York Jets	CB	31	24	"6' 1"""	198 lbs	2	Rutgers
+Braden Mann	New York Jets	P	7	22	"5' 11"""	198 lbs	R	Texas A&M
+Bradley McDougald	New York Jets	S	30	29	"6' 1"""	215 lbs	8	Kansas
+Braxton Berrios	New York Jets	WR	10	24	"5' 9"""	190 lbs	3	Miami (FL)
+Breshad Perriman	New York Jets	WR	19	27	"6' 1"""	215 lbs	6	UCF
+Brian Poole	New York Jets	CB	34	27	"5' 10"""	213 lbs	5	Florida
+Bryce Huff	New York Jets	DE	47	22	"6' 3"""	255 lbs	R	Memphis
+Chris Herndon	New York Jets	TE	89	24	"6' 4"""	253 lbs	3	Miami (FL)
+Chris Hogan	New York Jets	WR	15	32	"6' 1"""	210 lbs	8	Monmouth
+Chuma Edoga	New York Jets	OT	75	23	"6' 3"""	308 lbs	2	USC
+Connor McGovern	New York Jets	C	60	27	"6' 4"""	306 lbs	5	Missouri
+Conor McDermott	New York Jets	OT	69	27	"6' 8"""	310 lbs	4	UCLA
+Daniel Brown	New York Jets	TE	87	28	"6' 5"""	247 lbs	6	James Madison
+Folorunso Fatukasi	New York Jets	DT	94	25	"6' 4"""	318 lbs	3	Connecticut
+Frank Gore	New York Jets	RB	21	37	"5' 9"""	212 lbs	16	Miami (FL)
+Frankie Luvu	New York Jets	LB	50	24	"6' 3"""	236 lbs	3	Washington State
+George Fant	New York Jets	OT	76	28	"6' 5"""	322 lbs	5	Western Kentucky
+Greg Van Roten	New York Jets	G	62	30	"6' 3"""	305 lbs	6	Pennsylvania
+Harvey Langi	New York Jets	LB	44	28	"6' 2"""	250 lbs	3	BYU
+Henry Anderson	New York Jets	DE	96	29	"6' 6"""	301 lbs	6	Stanford
+James Morgan	New York Jets	QB	4	23	"6' 4"""	229 lbs	R	Florida International
+Jamison Crowder	New York Jets	WR	82	27	"5' 9"""	177 lbs	6	Duke
+Joe Flacco	New York Jets	QB	5	35	"6' 6"""	245 lbs	13	Delaware
+John Franklin-Myers	New York Jets	DE	91	23	"6' 4"""	288 lbs	3	Stephen F. Austin
+Jordan Jenkins	New York Jets	LB	48	26	"6' 3"""	259 lbs	5	Georgia
+Jordan Willis	New York Jets	DE	55	25	"6' 4"""	270 lbs	4	Kansas State
+Josh Andrews	New York Jets	C	68	29	"6' 2"""	298 lbs	5	Oregon State
+Josh Malone	New York Jets	WR	83	24	"6' 3"""	205 lbs	3	Tennessee
+Kalen Ballage	New York Jets	RB	29	24	"6' 2"""	231 lbs	3	Arizona State
+Kyle Phillips	New York Jets	DE	98	23	"6' 4"""	277 lbs	2	Tennessee
+La'Mical Perine	New York Jets	RB	22	22	"5' 11"""	216 lbs	R	Florida
+Marcus Maye	New York Jets	S	20	27	"6' 0"""	207 lbs	4	Florida
+Marqui Christian	New York Jets	S		25	"5' 11"""	207 lbs	5	Midwestern State
+Matthias Farley	New York Jets	S	41	28	"5' 11"""	204 lbs	5	Notre Dame
+Mekhi Becton	New York Jets	OT	77	21	"6' 7"""	363 lbs	R	Louisville
+Mike White	New York Jets	QB	8	25	"6' 5"""	218 lbs	2	Western Kentucky
+Nate Hairston	New York Jets	CB	25	26	"6' 0"""	185 lbs	4	Temple
+Nathan Shepherd	New York Jets	DT	97	26	"6' 4"""	315 lbs	3	Fort Hays State
+Neville Hewitt	New York Jets	LB	46	27	"6' 2"""	234 lbs	6	Marshall
+Pierre Desir	New York Jets	CB	35	30	"6' 1"""	192 lbs	7	Lindenwood
+Quincy Wilson	New York Jets	CB	27	24	"6' 2"""	193 lbs	4	Florida
+Quinnen Williams	New York Jets	DT	95	22	"6' 3"""	303 lbs	2	Alabama
+Ryan Griffin	New York Jets	TE	84	30	"6' 6"""	255 lbs	8	Connecticut
+Sam Darnold	New York Jets	QB	14	23	"6' 3"""	225 lbs	3	USC
+Sam Ficken	New York Jets	PK	9	27	"6' 1"""	192 lbs	2	Penn State
+Steve McLendon	New York Jets	DT	99	34	"6' 3"""	310 lbs	11	Troy
+Tarell Basham	New York Jets	LB	93	26	"6' 4"""	266 lbs	4	Ohio
+Thomas Hennessy	New York Jets	LS	42	26	"6' 2"""	246 lbs	4	Duke
+Trevon Wesco	New York Jets	TE	85	25	"6' 3"""	267 lbs	2	West Virginia
+Alex Singleton	Philadelphia Eagles	LB	49	26	"6' 2"""	240 lbs	2	Montana State
+Alshon Jeffery	Philadelphia Eagles	WR	17	30	"6' 3"""	218 lbs	9	South Carolina
+Avonte Maddox	Philadelphia Eagles	CB	29	24	"5' 9"""	184 lbs	3	Pittsburgh
+Boston Scott	Philadelphia Eagles	RB	35	25	"5' 6"""	203 lbs	2	Louisiana Tech
+Brandon Graham	Philadelphia Eagles	DE	55	32	"6' 2"""	265 lbs	11	Michigan
+Cameron Johnston	Philadelphia Eagles	P	1	28	"5' 11"""	194 lbs	3	Ohio State
+Carson Wentz	Philadelphia Eagles	QB	11	27	"6' 5"""	237 lbs	5	North Dakota State
+Casey Toohill	Philadelphia Eagles	DE	56	24	"6' 5"""	254 lbs	R	Stanford
+Corey Clement	Philadelphia Eagles	RB	30	25	"5' 10"""	220 lbs	4	Wisconsin
+Cre'Von LeBlanc	Philadelphia Eagles	CB	34	26	"5' 10"""	190 lbs	5	Florida Atlantic
+Dallas Goedert	Philadelphia Eagles	TE	88	25	"6' 5"""	256 lbs	3	South Dakota State
+Darius Slay	Philadelphia Eagles	CB	24	29	"6' 0"""	190 lbs	8	Mississippi State
+Davion Taylor	Philadelphia Eagles	LB	52	22	"6' 1"""	230 lbs	R	Colorado
+Derek Barnett	Philadelphia Eagles	DE	96	24	"6' 3"""	259 lbs	4	Tennessee
+DeSean Jackson	Philadelphia Eagles	WR	10	33	"5' 10"""	175 lbs	13	California
+Duke Riley	Philadelphia Eagles	LB	50	26	"6' 1"""	224 lbs	4	LSU
+Fletcher Cox	Philadelphia Eagles	DT	91	29	"6' 4"""	310 lbs	9	Mississippi State
+Genard Avery	Philadelphia Eagles	DE	58	25	"6' 0"""	250 lbs	3	Memphis
+Greg Ward	Philadelphia Eagles	WR	84	25	"5' 11"""	190 lbs	2	Houston
+Hassan Ridgeway	Philadelphia Eagles	DT	98	25	"6' 3"""	305 lbs	5	Texas
+J.J. Arcega-Whiteside	Philadelphia Eagles	WR	19	23	"6' 2"""	225 lbs	2	Stanford
+Jack Driscoll	Philadelphia Eagles	OT	63	23	"6' 5"""	312 lbs	R	Auburn
+Jake Elliott	Philadelphia Eagles	PK	4	25	"5' 9"""	167 lbs	4	Memphis
+Jalen Hurts	Philadelphia Eagles	QB	2	22	"6' 1"""	223 lbs	R	Oklahoma
+Jalen Mills	Philadelphia Eagles	S	21	26	"6' 0"""	191 lbs	5	LSU
+Jalen Reagor	Philadelphia Eagles	WR	18	21	"5' 11"""	197 lbs	R	TCU
+Jamon Brown	Philadelphia Eagles	G	66	27	"6' 4"""	340 lbs	6	Louisville
+Jason Huntley	Philadelphia Eagles	RB	32	22	"5' 9"""	193 lbs	R	New Mexico State
+Jason Kelce	Philadelphia Eagles	C	62	32	"6' 3"""	295 lbs	10	Cincinnati
+Jason Peters	Philadelphia Eagles	OT	71	38	"6' 4"""	328 lbs	17	Arkansas
+Javon Hargrave	Philadelphia Eagles	DT	93	27	"6' 2"""	305 lbs	5	South Carolina State
+John Hightower	Philadelphia Eagles	WR	82	24	"6' 2"""	190 lbs	R	Boise State
+Jordan Mailata	Philadelphia Eagles	OT	68	23	"6' 8"""	346 lbs	3	--
+Josh Sweat	Philadelphia Eagles	DE	94	23	"6' 5"""	251 lbs	3	Florida State
+K'Von Wallace	Philadelphia Eagles	S	42	23	"5' 11"""	205 lbs	R	Clemson
+Lane Johnson	Philadelphia Eagles	OT	65	30	"6' 6"""	317 lbs	8	Oklahoma
+Malik Jackson	Philadelphia Eagles	DT	97	30	"6' 5"""	290 lbs	9	Tennessee
+Marcus Epps	Philadelphia Eagles	S	22	24	"6' 0"""	191 lbs	2	Wyoming
+Matt Pryor	Philadelphia Eagles	OT	69	25	"6' 7"""	332 lbs	3	TCU
+Miles Sanders	Philadelphia Eagles	RB	26	23	"5' 11"""	211 lbs	2	Penn State
+Nate Herbig	Philadelphia Eagles	G	67	22	"6' 4"""	334 lbs	2	Stanford
+Nate Sudfeld	Philadelphia Eagles	QB	7	26	"6' 6"""	227 lbs	5	Indiana
+Nathan Gerry	Philadelphia Eagles	LB	47	25	"6' 2"""	230 lbs	4	Nebraska
+Nickell Robey-Coleman	Philadelphia Eagles	CB	31	28	"5' 8"""	180 lbs	8	USC
+Richard Rodgers	Philadelphia Eagles	TE	85	28	"6' 4"""	257 lbs	6	California
+Rick Lovato	Philadelphia Eagles	LS	45	28	"6' 2"""	249 lbs	4	Old Dominion
+Rodney McLeod	Philadelphia Eagles	S	23	30	"5' 10"""	195 lbs	9	Virginia
+Rudy Ford	Philadelphia Eagles	S	36	25	"6' 0"""	204 lbs	4	Auburn
+Shaun Bradley	Philadelphia Eagles	LB	54	23	"6' 1"""	240 lbs	R	Temple
+Sua Opeta	Philadelphia Eagles	G	78	24	"6' 4"""	305 lbs	1	Weber State
+T.J. Edwards	Philadelphia Eagles	LB	57	24	"6' 1"""	242 lbs	2	Wisconsin
+Trevor Williams	Philadelphia Eagles	CB	41	27	"5' 11"""	191 lbs	5	Penn State
+Zach Ertz	Philadelphia Eagles	TE	86	29	"6' 5"""	250 lbs	8	Stanford
+Alejandro Villanueva	Pittsburgh Steelers	OT	78	32	"6' 9"""	320 lbs	6	Army
+Alex Highsmith	Pittsburgh Steelers	LB	56	23	"6' 4"""	242 lbs	R	Charlotte
+Anthony McFarland Jr.	Pittsburgh Steelers	RB	26	22	"5' 8"""	193 lbs	R	Maryland
+Ben Roethlisberger	Pittsburgh Steelers	QB	7	38	"6' 5"""	240 lbs	17	Miami (OH)
+Benny Snell Jr.	Pittsburgh Steelers	RB	24	22	"5' 10"""	224 lbs	2	Kentucky
+Bud Dupree	Pittsburgh Steelers	LB	48	27	"6' 4"""	269 lbs	6	Kentucky
+Cameron Heyward	Pittsburgh Steelers	DT	97	31	"6' 5"""	295 lbs	10	Ohio State
+Cameron Sutton	Pittsburgh Steelers	CB	20	25	"5' 11"""	188 lbs	4	Tennessee
+Carlos Davis	Pittsburgh Steelers	DT	73	24	"6' 2"""	320 lbs	R	Nebraska
+Chase Claypool	Pittsburgh Steelers	WR	11	22	"6' 4"""	238 lbs	R	Notre Dame
+Chris Boswell	Pittsburgh Steelers	PK	9	29	"6' 2"""	185 lbs	6	Rice
+Chris Wormley	Pittsburgh Steelers	NT	95	27	"6' 5"""	300 lbs	4	Michigan
+Chukwuma Okorafor	Pittsburgh Steelers	OT	76	23	"6' 6"""	320 lbs	3	Western Michigan
+David DeCastro	Pittsburgh Steelers	G	66	30	"6' 5"""	316 lbs	9	Stanford
+Derek Watt	Pittsburgh Steelers	FB	44	27	"6' 2"""	234 lbs	5	Wisconsin
+Derwin Gray	Pittsburgh Steelers	OT	77	25	"6' 4"""	320 lbs	1	Maryland
+Devin Bush	Pittsburgh Steelers	LB	55	22	"5' 11"""	234 lbs	2	Michigan
+Diontae Johnson	Pittsburgh Steelers	WR	18	24	"5' 10"""	183 lbs	2	Toledo
+Dustin Colquitt	Pittsburgh Steelers	P	4	38	"6' 3"""	210 lbs	16	Tennessee
+Eric Ebron	Pittsburgh Steelers	TE	85	27	"6' 4"""	253 lbs	7	North Carolina
+Isaiah Buggs	Pittsburgh Steelers	DE	96	24	"6' 3"""	295 lbs	2	Alabama
+J.C. Hassenauer	Pittsburgh Steelers	C	60	26	"6' 2"""	295 lbs	1	Alabama
+James Conner	Pittsburgh Steelers	RB	30	25	"6' 1"""	233 lbs	4	Pittsburgh
+James Pierre	Pittsburgh Steelers	CB	42	24	"6' 2"""	185 lbs	R	Florida Atlantic
+James Washington	Pittsburgh Steelers	WR	13	24	"5' 11"""	213 lbs	3	Oklahoma State
+Jaylen Samuels	Pittsburgh Steelers	RB	38	24	"6' 0"""	225 lbs	3	North Carolina State
+Jerald Hawkins	Pittsburgh Steelers	OT	65	26	"6' 6"""	305 lbs	5	LSU
+Joe Haden	Pittsburgh Steelers	CB	23	31	"5' 11"""	195 lbs	11	Florida
+Jordan Dangerfield	Pittsburgh Steelers	S	37	29	"5' 11"""	199 lbs	4	Towson
+Joshua Dobbs	Pittsburgh Steelers	QB	5	25	"6' 3"""	216 lbs	4	Tennessee
+JuJu Smith-Schuster	Pittsburgh Steelers	WR	19	23	"6' 1"""	215 lbs	4	USC
+Justin Layne	Pittsburgh Steelers	CB	31	22	"6' 2"""	192 lbs	2	Michigan State
+Kameron Canaday	Pittsburgh Steelers	LS	57	28	"6' 4"""	245 lbs	4	Portland State
+Kevin Dotson	Pittsburgh Steelers	G	69	24	"6' 4"""	321 lbs	R	Louisiana-Lafayette
+Marcus Allen	Pittsburgh Steelers	S	27	24	"6' 2"""	215 lbs	2	Penn State
+Mason Rudolph	Pittsburgh Steelers	QB	2	25	"6' 5"""	235 lbs	3	Oklahoma State
+Matt Feiler	Pittsburgh Steelers	OT	71	28	"6' 6"""	330 lbs	4	Bloomsburg
+Maurkice Pouncey	Pittsburgh Steelers	C	53	31	"6' 4"""	304 lbs	11	Florida
+Mike Hilton	Pittsburgh Steelers	CB	28	26	"5' 9"""	184 lbs	4	Ole Miss
+Minkah Fitzpatrick	Pittsburgh Steelers	S	39	23	"6' 1"""	207 lbs	3	Alabama
+Olasunkanmi Adeniyi	Pittsburgh Steelers	LB	92	23	"6' 1"""	248 lbs	3	Toledo
+Ray-Ray McCloud	Pittsburgh Steelers	WR	14	23	"5' 9"""	190 lbs	3	Clemson
+Robert Spillane	Pittsburgh Steelers	LB	41	24	"6' 1"""	229 lbs	2	Western Michigan
+Sean Davis	Pittsburgh Steelers	S	21	26	"6' 1"""	202 lbs	5	Maryland
+Stephon Tuitt	Pittsburgh Steelers	DE	91	27	"6' 6"""	303 lbs	7	Notre Dame
+Steven Nelson	Pittsburgh Steelers	CB	22	27	"5' 11"""	194 lbs	6	Oregon State
+T.J. Watt	Pittsburgh Steelers	LB	90	25	"6' 4"""	252 lbs	4	Wisconsin
+Terrell Edmunds	Pittsburgh Steelers	S	34	23	"6' 1"""	217 lbs	3	Virginia Tech
+Tyson Alualu	Pittsburgh Steelers	DE	94	33	"6' 3"""	304 lbs	11	California
+Ulysees Gilbert III	Pittsburgh Steelers	LB	54	23	"6' 0"""	230 lbs	2	Akron
+Vance McDonald	Pittsburgh Steelers	TE	89	30	"6' 4"""	267 lbs	8	Rice
+Vince Williams	Pittsburgh Steelers	LB	98	30	"6' 1"""	233 lbs	8	Florida State
+Zach Gentry	Pittsburgh Steelers	TE	81	24	"6' 8"""	265 lbs	2	Michigan
+Ahkello Witherspoon	San Francisco 49ers	CB	23	25	"6' 3"""	195 lbs	4	Colorado
+Arik Armstead	San Francisco 49ers	DE	91	26	"6' 7"""	290 lbs	6	Oregon
+Azeez Al-Shaair	San Francisco 49ers	LB	51	23	"6' 2"""	228 lbs	2	Florida Atlantic
+Ben Garland	San Francisco 49ers	G	63	32	"6' 5"""	304 lbs	7	Air Force
+Brandon Aiyuk	San Francisco 49ers	WR	11	22	"6' 0"""	200 lbs	R	Arizona State
+C.J. Beathard	San Francisco 49ers	QB	3	26	"6' 2"""	215 lbs	4	Iowa
+Charlie Woerner	San Francisco 49ers	TE	89	22	"6' 5"""	241 lbs	R	Georgia
+Colton McKivitz	San Francisco 49ers	OT	68	24	"6' 6"""	301 lbs	R	West Virginia
+D.J. Jones	San Francisco 49ers	DT	93	25	"6' 0"""	305 lbs	4	Ole Miss
+Daniel Brunskill	San Francisco 49ers	OT	60	26	"6' 5"""	300 lbs	2	San Diego State
+Dante Pettis	San Francisco 49ers	WR	18	24	"6' 1"""	195 lbs	3	Washington
+Dee Ford	San Francisco 49ers	DE	55	29	"6' 2"""	252 lbs	7	Auburn
+Demetrius Flannigan-Fowles	San Francisco 49ers	LB	45	24	"6' 2"""	210 lbs	1	Arizona
+Dion Jordan	San Francisco 49ers	DE	96	30	"6' 6"""	284 lbs	6	Oregon
+Dontae Johnson	San Francisco 49ers	CB	27	28	"6' 2"""	200 lbs	7	North Carolina State
+Dre Greenlaw	San Francisco 49ers	LB	57	23	"6' 0"""	230 lbs	2	Arkansas
+Emmanuel Moseley	San Francisco 49ers	CB	41	24	"5' 11"""	190 lbs	3	Tennessee
+Fred Warner	San Francisco 49ers	LB	54	23	"6' 3"""	230 lbs	3	BYU
+George Kittle	San Francisco 49ers	TE	85	26	"6' 4"""	250 lbs	4	Iowa
+Jaquiski Tartt	San Francisco 49ers	S	29	28	"6' 1"""	215 lbs	6	Samford
+Jason Verrett	San Francisco 49ers	CB	22	29	"5' 10"""	188 lbs	7	TCU
+Javon Kinlaw	San Francisco 49ers	DT	99	22	"6' 5"""	319 lbs	R	South Carolina
+Jeff Wilson Jr.	San Francisco 49ers	RB	30	24	"6' 0"""	213 lbs	3	North Texas
+Jerick McKinnon	San Francisco 49ers	RB	28	28	"5' 9"""	205 lbs	7	Georgia Southern
+Jimmie Ward	San Francisco 49ers	CB	20	29	"5' 11"""	195 lbs	7	Northern Illinois
+Jimmy Garoppolo	San Francisco 49ers	QB	10	28	"6' 2"""	225 lbs	7	Eastern Illinois
+Jordan Reed	San Francisco 49ers	TE	81	30	"6' 2"""	242 lbs	8	Florida
+Justin Skule	San Francisco 49ers	OT	67	23	"6' 6"""	315 lbs	2	Vanderbilt
+Ken Webster	San Francisco 49ers	CB	35	24	"5' 11"""	202 lbs	2	Ole Miss
+Kendrick Bourne	San Francisco 49ers	WR	84	25	"6' 1"""	190 lbs	4	Eastern Washington
+Kentavius Street	San Francisco 49ers	DE	95	24	"6' 2"""	287 lbs	2	North Carolina State
+Kerry Hyder Jr.	San Francisco 49ers	DE	92	29	"6' 2"""	275 lbs	5	Texas Tech
+Kevin Givens	San Francisco 49ers	DT	90	23	"6' 1"""	285 lbs	1	Penn State
+K'Waun Williams	San Francisco 49ers	CB	24	29	"5' 9"""	185 lbs	6	Pittsburgh
+Kwon Alexander	San Francisco 49ers	LB	56	26	"6' 1"""	227 lbs	6	LSU
+Kyle Juszczyk	San Francisco 49ers	FB	44	29	"6' 1"""	235 lbs	8	Harvard
+Kyle Nelson	San Francisco 49ers	LS	86	33	"6' 2"""	240 lbs	9	New Mexico State
+Laken Tomlinson	San Francisco 49ers	G	75	28	"6' 3"""	315 lbs	6	Duke
+Marcell Harris	San Francisco 49ers	S	36	26	"6' 0"""	215 lbs	3	Florida
+Mark Nzeocha	San Francisco 49ers	LB	53	30	"6' 3"""	235 lbs	6	Wyoming
+Mike McGlinchey	San Francisco 49ers	OT	69	25	"6' 8"""	310 lbs	3	Notre Dame
+Mitch Wishnowsky	San Francisco 49ers	P	6	28	"6' 2"""	220 lbs	2	Utah
+Mohamed Sanu Sr.	San Francisco 49ers	WR	14	31	"6' 2"""	210 lbs	9	Rutgers
+Nick Mullens	San Francisco 49ers	QB	4	25	"6' 1"""	210 lbs	3	Southern Miss
+Raheem Mostert	San Francisco 49ers	RB	31	28	"5' 10"""	205 lbs	6	Purdue
+Robbie Gould	San Francisco 49ers	PK	9	37	"6' 0"""	190 lbs	16	Penn State
+Ross Dwelley	San Francisco 49ers	TE	82	25	"6' 5"""	235 lbs	3	San Diego
+Tarvarius Moore	San Francisco 49ers	S	33	24	"6' 2"""	200 lbs	3	Southern Miss
+Tevin Coleman	San Francisco 49ers	RB	26	27	"6' 1"""	210 lbs	6	Indiana
+Tom Compton	San Francisco 49ers	G	66	31	"6' 6"""	315 lbs	8	South Dakota
+Trent Taylor	San Francisco 49ers	WR	15	26	"5' 8"""	180 lbs	4	Louisiana Tech
+Trent Williams	San Francisco 49ers	OT	71	32	"6' 5"""	320 lbs	10	Oklahoma
+Ziggy Ansah	San Francisco 49ers	DE	98	31	"6' 5"""	275 lbs	8	BYU
+Alton Robinson	Seattle Seahawks	DE	98	22	"6' 3"""	259 lbs	R	Syracuse
+Anthony Rush	Seattle Seahawks	DT	63	24	"6' 5"""	350 lbs	2	UAB
+B.J. Finney	Seattle Seahawks	C	67	28	"6' 4"""	318 lbs	5	Kansas State
+Ben Burr-Kirven	Seattle Seahawks	LB	55	23	"6' 0"""	230 lbs	2	Washington
+Benson Mayowa	Seattle Seahawks	DE	95	29	"6' 3"""	265 lbs	8	Idaho
+Bobby Wagner	Seattle Seahawks	LB	54	30	"6' 0"""	242 lbs	9	Utah State
+Brandon Shell	Seattle Seahawks	OT	72	28	"6' 5"""	324 lbs	5	South Carolina
+Bryan Mone	Seattle Seahawks	DT	92	24	"6' 3"""	366 lbs	1	Michigan
+Carlos Hyde	Seattle Seahawks	RB	30	30	"6' 0"""	229 lbs	7	Ohio State
+Cedric Ogbuehi	Seattle Seahawks	OT	74	28	"6' 5"""	308 lbs	6	Texas A&M
+Chris Carson	Seattle Seahawks	RB	32	26	"5' 11"""	222 lbs	4	Oklahoma State
+Cody Barton	Seattle Seahawks	LB	57	23	"6' 2"""	237 lbs	2	Utah
+Damien Lewis	Seattle Seahawks	G	68	23	"6' 2"""	327 lbs	R	LSU
+Damontre' Moore	Seattle Seahawks	DE	99	28	"6' 4"""	260 lbs	6	Texas A&M
+D'Andre Walker	Seattle Seahawks	LB	59	23	"6' 2"""	251 lbs	3	Georgia
+David Moore	Seattle Seahawks	WR	83	25	"6' 0"""	215 lbs	4	East Central
+DeeJay Dallas	Seattle Seahawks	RB	31	22	"5' 10"""	217 lbs	R	Miami (FL)
+DK Metcalf	Seattle Seahawks	WR	14	22	"6' 4"""	229 lbs	2	Ole Miss
+Duane Brown	Seattle Seahawks	OT	76	35	"6' 4"""	315 lbs	13	Virginia Tech
+Ethan Pocic	Seattle Seahawks	G	77	25	"6' 6"""	320 lbs	4	LSU
+Freddie Swain	Seattle Seahawks	WR	18	22	"6' 0"""	199 lbs	R	Florida
+Geno Smith	Seattle Seahawks	QB	7	29	"6' 3"""	221 lbs	8	West Virginia
+Greg Olsen	Seattle Seahawks	TE	88	35	"6' 5"""	255 lbs	14	Miami (FL)
+Jacob Hollister	Seattle Seahawks	TE	86	26	"6' 4"""	245 lbs	4	Wyoming
+Jamal Adams	Seattle Seahawks	S	33	24	"6' 1"""	213 lbs	3	LSU
+Jamarco Jones	Seattle Seahawks	OT	73	24	"6' 4"""	293 lbs	3	Ohio State
+Jarran Reed	Seattle Seahawks	DT	90	27	"6' 3"""	306 lbs	5	Alabama
+Jason Myers	Seattle Seahawks	PK	5	29	"5' 10"""	190 lbs	6	Marist
+Jordan Simmons	Seattle Seahawks	G	66	26	"6' 4"""	339 lbs	3	USC
+Jordyn Brooks	Seattle Seahawks	LB	56	22	"6' 0"""	240 lbs	R	Texas Tech
+K.J. Wright	Seattle Seahawks	LB	50	31	"6' 4"""	246 lbs	10	Mississippi State
+Kyle Fuller	Seattle Seahawks	C	61	26	"6' 5"""	320 lbs	2	Baylor
+L.J. Collier	Seattle Seahawks	DE	91	25	"6' 2"""	291 lbs	2	TCU
+Lano Hill	Seattle Seahawks	S	42	24	"6' 1"""	216 lbs	4	Michigan
+Linden Stephens	Seattle Seahawks	CB	34	25	"6' 0"""	193 lbs	1	Cincinnati
+Luke Willson	Seattle Seahawks	TE	82	30	"6' 5"""	255 lbs	8	Rice
+Michael Dickson	Seattle Seahawks	P	4	24	"6' 2"""	208 lbs	3	Texas
+Mike Iupati	Seattle Seahawks	G	70	33	"6' 5"""	331 lbs	11	Idaho
+Neiko Thorpe	Seattle Seahawks	CB	23	30	"6' 2"""	210 lbs	8	Auburn
+Nick Bellore	Seattle Seahawks	FB	44	31	"6' 1"""	250 lbs	10	Central Michigan
+Penny Hart	Seattle Seahawks	WR	19	24	"5' 8"""	180 lbs	1	Georgia State
+Poona Ford	Seattle Seahawks	DT	97	24	"5' 11"""	310 lbs	3	Texas
+Quandre Diggs	Seattle Seahawks	S	37	27	"5' 9"""	198 lbs	6	Texas
+Quinton Dunbar	Seattle Seahawks	CB	22	28	"6' 2"""	202 lbs	5	Florida
+Rasheem Green	Seattle Seahawks	DE	94	23	"6' 4"""	279 lbs	3	USC
+Russell Wilson	Seattle Seahawks	QB	3	31	"5' 11"""	215 lbs	9	Wisconsin
+Shaquill Griffin	Seattle Seahawks	CB	26	25	"6' 0"""	198 lbs	4	UCF
+Travis Homer	Seattle Seahawks	RB	25	22	"5' 10"""	202 lbs	2	Miami (FL)
+Tre Flowers	Seattle Seahawks	CB	21	25	"6' 3"""	203 lbs	3	Oklahoma State
+Tyler Lockett	Seattle Seahawks	WR	16	27	"5' 10"""	182 lbs	6	Kansas State
+Tyler Ott	Seattle Seahawks	LS	69	28	"6' 3"""	253 lbs	6	Harvard
+Ugo Amadi	Seattle Seahawks	S	28	23	"5' 9"""	201 lbs	2	Oregon
+Will Dissly	Seattle Seahawks	TE	89	24	"6' 4"""	265 lbs	3	Washington
+A.Q. Shipley	Tampa Bay Buccaneers	C	62	34	"6' 1"""	307 lbs	9	Penn State
+Aaron Stinnie	Tampa Bay Buccaneers	G	64	26	"6' 3"""	312 lbs	3	James Madison
+Alex Cappa	Tampa Bay Buccaneers	G	65	25	"6' 6"""	305 lbs	3	Humboldt State
+Ali Marpet	Tampa Bay Buccaneers	G	74	27	"6' 4"""	307 lbs	6	Hobart
+Andrew Adams	Tampa Bay Buccaneers	S	26	27	"5' 11"""	202 lbs	5	Connecticut
+Anthony Nelson	Tampa Bay Buccaneers	LB	98	23	"6' 7"""	271 lbs	2	Iowa
+Antoine Winfield Jr.	Tampa Bay Buccaneers	S	31	22	"5' 9"""	203 lbs	R	Minnesota
+Blaine Gabbert	Tampa Bay Buccaneers	QB	11	30	"6' 5"""	235 lbs	10	Missouri
+Bradley Pinion	Tampa Bay Buccaneers	P	8	26	"6' 5"""	229 lbs	6	Clemson
+Cam Gill	Tampa Bay Buccaneers	LB	49	22	"6' 3"""	240 lbs	R	Wagner
+Cameron Brate	Tampa Bay Buccaneers	TE	84	29	"6' 5"""	245 lbs	6	Harvard
+Carlton Davis	Tampa Bay Buccaneers	CB	24	23	"6' 1"""	206 lbs	3	Auburn
+Chris Godwin	Tampa Bay Buccaneers	WR	14	24	"6' 1"""	209 lbs	4	Penn State
+Devin White	Tampa Bay Buccaneers	LB	45	22	"6' 0"""	237 lbs	2	LSU
+Donovan Smith	Tampa Bay Buccaneers	OT	76	27	"6' 6"""	338 lbs	6	Penn State
+Jack Cichy	Tampa Bay Buccaneers	LB	48	24	"6' 2"""	238 lbs	3	Wisconsin
+Jamel Dean	Tampa Bay Buccaneers	CB	35	23	"6' 1"""	206 lbs	2	Auburn
+Jason Pierre-Paul	Tampa Bay Buccaneers	LB	90	31	"6' 5"""	275 lbs	11	South Florida
+Jaydon Mickens	Tampa Bay Buccaneers	WR	85	26	"5' 11"""	170 lbs	3	Washington
+Joe Haeg	Tampa Bay Buccaneers	OT	73	27	"6' 6"""	298 lbs	5	North Dakota State
+Jordan Whitehead	Tampa Bay Buccaneers	S	33	23	"5' 10"""	198 lbs	3	Pittsburgh
+Josh Wells	Tampa Bay Buccaneers	OT	72	29	"6' 6"""	306 lbs	6	James Madison
+Justin Watson	Tampa Bay Buccaneers	WR	17	24	"6' 3"""	215 lbs	3	Pennsylvania
+Ke'Shawn Vaughn	Tampa Bay Buccaneers	RB	30	23	"5' 10"""	214 lbs	R	Vanderbilt
+Kevin Minter	Tampa Bay Buccaneers	LB	51	29	"6' 0"""	246 lbs	8	LSU
+Khalil Davis	Tampa Bay Buccaneers	DT	94	24	"6' 1"""	308 lbs	R	Nebraska
+Lavonte David	Tampa Bay Buccaneers	LB	54	30	"6' 1"""	233 lbs	9	Nebraska
+Leonard Fournette	Tampa Bay Buccaneers	RB	28	25	"6' 0"""	228 lbs	4	LSU
+LeSean McCoy	Tampa Bay Buccaneers	RB	25	32	"5' 11"""	210 lbs	12	Pittsburgh
+Mike Edwards	Tampa Bay Buccaneers	S	32	24	"5' 10"""	205 lbs	2	Kentucky
+Mike Evans	Tampa Bay Buccaneers	WR	13	27	"6' 5"""	231 lbs	7	Texas A&M
+Ndamukong Suh	Tampa Bay Buccaneers	DT	93	33	"6' 4"""	313 lbs	11	Nebraska
+O.J. Howard	Tampa Bay Buccaneers	TE	80	25	"6' 6"""	251 lbs	4	Alabama
+Parnell Motley	Tampa Bay Buccaneers	CB	39	22	"6' 0"""	180 lbs	R	Oklahoma
+Patrick O'Connor	Tampa Bay Buccaneers	DE	79	26	"6' 4"""	270 lbs	2	Eastern Michigan
+Quinton Bell	Tampa Bay Buccaneers	LB	57	24	"6' 4"""	253 lbs	1	Prairie View A&M
+Rakeem Nunez-Roches	Tampa Bay Buccaneers	DT	56	27	"6' 2"""	307 lbs	6	Southern Miss
+Rob Gronkowski	Tampa Bay Buccaneers	TE	87	31	"6' 6"""	265 lbs	10	Arizona
+Ronald Jones II	Tampa Bay Buccaneers	RB	27	23	"5' 11"""	208 lbs	3	USC
+Ryan Griffin	Tampa Bay Buccaneers	QB	4	30	"6' 5"""	210 lbs	7	Tulane
+Ryan Jensen	Tampa Bay Buccaneers	C	66	29	"6' 4"""	319 lbs	7	Colorado State-Pueblo
+Ryan Smith	Tampa Bay Buccaneers	CB	29	27	"5' 11"""	189 lbs	5	North Carolina Central
+Ryan Succop	Tampa Bay Buccaneers	PK	3	34	"6' 2"""	218 lbs	12	South Carolina
+Scotty Miller	Tampa Bay Buccaneers	WR	10	23	"5' 9"""	174 lbs	2	Bowling Green
+Sean Murphy-Bunting	Tampa Bay Buccaneers	CB	23	23	"6' 0"""	195 lbs	2	Central Michigan
+Shaquil Barrett	Tampa Bay Buccaneers	LB	58	27	"6' 2"""	250 lbs	7	Colorado State
+Tanner Hudson	Tampa Bay Buccaneers	TE	88	25	"6' 5"""	239 lbs	2	Southern Arkansas
+Tom Brady	Tampa Bay Buccaneers	QB	12	43	"6' 4"""	225 lbs	21	Michigan
+Tristan Wirfs	Tampa Bay Buccaneers	OT	78	21	"6' 5"""	320 lbs	R	Iowa
+Tyler Johnson	Tampa Bay Buccaneers	WR	18	22	"6' 1"""	206 lbs	R	Minnesota
+Vita Vea	Tampa Bay Buccaneers	DT	50	25	"6' 4"""	347 lbs	3	Washington
+William Gholston	Tampa Bay Buccaneers	DE	92	29	"6' 6"""	281 lbs	8	Michigan State
+Zach Triner	Tampa Bay Buccaneers	LS	97	29	"6' 3"""	245 lbs	2	Assumption
+A.J. Brown	Tennessee Titans	WR	11	23	"6' 0"""	226 lbs	2	Ole Miss
+Aaron Brewer	Tennessee Titans	C	62	22	"6' 1"""	274 lbs	R	Texas State
+Adam Humphries	Tennessee Titans	WR	10	27	"5' 11"""	195 lbs	6	Clemson
+Amani Hooker	Tennessee Titans	S	37	22	"5' 11"""	210 lbs	2	Iowa
+Anthony Firkser	Tennessee Titans	TE	86	25	"6' 2"""	246 lbs	3	Harvard
+Beau Brinkley	Tennessee Titans	LS	48	30	"6' 4"""	260 lbs	9	Missouri
+Ben Jones	Tennessee Titans	C	60	31	"6' 3"""	308 lbs	9	Georgia
+Brett Kern	Tennessee Titans	P	6	34	"6' 2"""	214 lbs	13	Toledo
+Chris Jackson	Tennessee Titans	CB	35	22	"5' 10"""	193 lbs	R	Marshall
+Chris Milton	Tennessee Titans	CB	30	28	"5' 11"""	190 lbs	5	Georgia Tech
+Corey Davis	Tennessee Titans	WR	84	25	"6' 3"""	209 lbs	4	Western Michigan
+Daniel Munyer	Tennessee Titans	C	52	28	"6' 1"""	305 lbs	3	Colorado
+DaQuan Jones	Tennessee Titans	DT	90	28	"6' 4"""	322 lbs	7	Penn State
+Darrynton Evans	Tennessee Titans	RB	32	22	"5' 10"""	203 lbs	R	Appalachian State
+David Long Jr.	Tennessee Titans	LB	51	23	"5' 11"""	227 lbs	2	West Virginia
+Dennis Kelly	Tennessee Titans	OT	71	30	"6' 8"""	321 lbs	9	Purdue
+Derick Roberson	Tennessee Titans	LB	50	24	"6' 3"""	250 lbs	2	Sam Houston State
+Derrick Henry	Tennessee Titans	RB	22	26	"6' 3"""	247 lbs	5	Alabama
+Geoff Swaim	Tennessee Titans	TE	87	27	"6' 4"""	260 lbs	6	Texas
+Harold Landry III	Tennessee Titans	LB	58	24	"6' 2"""	252 lbs	3	Boston College
+Isaiah Mack	Tennessee Titans	DT	97	24	"6' 1"""	299 lbs	2	Chattanooga
+Jack Crawford	Tennessee Titans	DT	94	32	"6' 5"""	274 lbs	9	Penn State
+Jadeveon Clowney	Tennessee Titans	DE	99	27	"6' 5"""	255 lbs	7	South Carolina
+Jamil Douglas	Tennessee Titans	G	75	28	"6' 4"""	309 lbs	3	Arizona State
+Jayon Brown	Tennessee Titans	LB	55	25	"6' 0"""	226 lbs	4	UCLA
+Jeffery Simmons	Tennessee Titans	DT	98	23	"6' 4"""	305 lbs	2	Mississippi State
+Jeremy McNichols	Tennessee Titans	RB	28	24	"5' 9"""	205 lbs	1	Boise State
+Johnathan Joseph	Tennessee Titans	CB	33	36	"5' 11"""	186 lbs	15	South Carolina
+Jonnu Smith	Tennessee Titans	TE	81	25	"6' 3"""	248 lbs	4	Florida International
+Joshua Kalu	Tennessee Titans	CB	46	25	"6' 0"""	203 lbs	2	Nebraska
+Kalif Raymond	Tennessee Titans	WR	14	26	"5' 8"""	182 lbs	4	Holy Cross
+Kamalei Correa	Tennessee Titans	LB	40	26	"6' 3"""	241 lbs	5	Boise State
+Kenny Vaccaro	Tennessee Titans	S	24	29	"6' 0"""	214 lbs	8	Texas
+Kevin Byard	Tennessee Titans	S	31	27	"5' 11"""	212 lbs	5	Middle Tennessee
+Khari Blasingame	Tennessee Titans	FB	41	24	"6' 0"""	233 lbs	2	Vanderbilt
+Kristian Fulton	Tennessee Titans	CB	26	22	"5' 11"""	197 lbs	R	LSU
+Larrell Murchison	Tennessee Titans	DT	91	23	"6' 2"""	297 lbs	R	North Carolina State
+Logan Woodside	Tennessee Titans	QB	5	25	"6' 1"""	213 lbs	1	Toledo
+Malcolm Butler	Tennessee Titans	CB	21	30	"5' 11"""	190 lbs	7	West Alabama
+Matt Dickerson	Tennessee Titans	DE	92	24	"6' 5"""	292 lbs	3	UCLA
+MyCole Pruitt	Tennessee Titans	TE	85	28	"6' 2"""	245 lbs	5	Southern Illinois
+Nate Davis	Tennessee Titans	G	64	24	"6' 3"""	316 lbs	2	Charlotte
+Nick Dzubnar	Tennessee Titans	LB	49	29	"6' 1"""	240 lbs	6	Cal Poly
+Nick Westbrook-Ikhine	Tennessee Titans	WR	15	23	"6' 2"""	211 lbs	R	Indiana
+Rashaan Evans	Tennessee Titans	LB	54	24	"6' 2"""	232 lbs	3	Alabama
+Rodger Saffold III	Tennessee Titans	G	76	32	"6' 5"""	325 lbs	11	Indiana
+Ryan Tannehill	Tennessee Titans	QB	17	32	"6' 4"""	217 lbs	9	Texas A&M
+Stephen Gostkowski	Tennessee Titans	PK	3	36	"6' 1"""	215 lbs	15	Memphis
+Taylor Lewan	Tennessee Titans	OT	77	29	"6' 7"""	309 lbs	7	Michigan
+Ty Sambrailo	Tennessee Titans	OT	70	28	"6' 5"""	311 lbs	6	Colorado State
+Tye Smith	Tennessee Titans	CB	23	27	"6' 0"""	195 lbs	5	Towson
+Vic Beasley Jr.	Tennessee Titans	LB	44	28	"6' 3"""	246 lbs	6	Clemson
+Will Compton	Tennessee Titans	LB	53	31	"6' 1"""	235 lbs	7	Nebraska
+Alex Smith	Washington	QB	11	36	"6' 4"""	215 lbs	16	Utah
+Antonio Gandy-Golden	Washington	WR	10	22	"6' 4"""	223 lbs	R	Liberty
+Antonio Gibson	Washington	RB	24	22	"6' 2"""	220 lbs	R	Memphis
+Bryce Love	Washington	RB	35	23	"5' 9"""	205 lbs	1	Stanford
+Cam Sims	Washington	WR	89	24	"6' 5"""	190 lbs	3	Alabama
+Chase Roullier	Washington	C	73	27	"6' 4"""	312 lbs	4	Wyoming
+Chase Young	Washington	DE	99	21	"6' 5"""	264 lbs	R	Ohio State
+Cole Holcomb	Washington	LB	55	24	"6' 1"""	240 lbs	2	North Carolina
+Cornelius Lucas	Washington	OT	78	29	"6' 8"""	328 lbs	6	Kansas State
+Danny Johnson	Washington	CB	32	24	"5' 9"""	190 lbs	3	Southern University
+Daron Payne	Washington	DT	94	23	"6' 3"""	320 lbs	3	Alabama
+David Sharpe	Washington	OT	72	24	"6' 6"""	330 lbs	4	Florida
+Deshazor Everett	Washington	S	22	28	"6' 0"""	203 lbs	6	Texas A&M
+Dontrelle Inman	Washington	WR	80	31	"6' 3"""	205 lbs	7	Virginia
+Dustin Hopkins	Washington	PK	3	29	"6' 2"""	205 lbs	7	Florida State
+Dwayne Haskins Jr.	Washington	QB	7	23	"6' 4"""	218 lbs	2	Ohio State
+Fabian Moreau	Washington	CB	25	26	"6' 0"""	204 lbs	4	UCLA
+Geron Christian Sr.	Washington	OT	74	24	"6' 6"""	315 lbs	3	Louisville
+Greg Stroman	Washington	CB	37	24	"6' 0"""	182 lbs	3	Virginia Tech
+Isaiah Wright	Washington	WR	83	23	"6' 2"""	220 lbs	R	Temple
+J.D. McKissic	Washington	RB	41	27	"5' 10"""	195 lbs	4	Arkansas State
+James Smith-Williams	Washington	DE	96	23	"6' 4"""	265 lbs	R	North Carolina State
+Jeremy Sprinkle	Washington	TE	87	26	"6' 5"""	255 lbs	4	Arkansas
+Jimmy Moreland	Washington	CB	20	25	"5' 11"""	182 lbs	2	James Madison
+Jon Bostic	Washington	LB	53	29	"6' 1"""	245 lbs	8	Florida
+Jonathan Allen	Washington	DT	93	25	"6' 3"""	300 lbs	4	Alabama
+Kamren Curl	Washington	S	31	21	"6' 2"""	198 lbs	R	Arkansas
+Keith Ismael	Washington	C	60	22	"6' 3"""	309 lbs	R	San Diego State
+Kendall Fuller	Washington	CB	29	25	"5' 11"""	198 lbs	5	Virginia Tech
+Kevin Pierre-Louis	Washington	LB	54	28	"6' 0"""	230 lbs	7	Boston College
+Khaleke Hudson	Washington	LB	47	22	"6' 0"""	220 lbs	R	Michigan
+Kyle Allen	Washington	QB	8	24	"6' 3"""	210 lbs	2	Houston
+Landon Collins	Washington	S	26	26	"6' 0"""	218 lbs	6	Alabama
+Logan Thomas	Washington	TE	82	29	"6' 6"""	250 lbs	6	Virginia Tech
+Marcus Baugh	Washington	TE	85	25	"6' 4"""	245 lbs	2	Ohio State
+Matt Ioannidis	Washington	DT	98	26	"6' 3"""	310 lbs	5	Temple
+Montez Sweat	Washington	DE	90	24	"6' 6"""	262 lbs	2	Mississippi State
+Morgan Moses	Washington	OT	76	29	"6' 6"""	330 lbs	7	Virginia
+Nick Sundberg	Washington	LS	57	33	"6' 1"""	254 lbs	11	California
+Peyton Barber	Washington	RB	34	26	"5' 11"""	225 lbs	5	Auburn
+Ronald Darby	Washington	CB	23	26	"5' 11"""	193 lbs	6	Florida State
+Ryan Anderson	Washington	DE	52	26	"6' 2"""	255 lbs	4	Alabama
+Ryan Kerrigan	Washington	DE	91	32	"6' 4"""	265 lbs	10	Purdue
+Saahdiq Charles	Washington	OT	77	21	"6' 4"""	321 lbs	R	LSU
+Shaun Dion Hamilton	Washington	LB	51	25	"6' 0"""	235 lbs	3	Alabama
+Steven Sims Jr.	Washington	WR	15	23	"5' 10"""	190 lbs	2	Kansas
+Terry McLaurin	Washington	WR	17	25	"6' 0"""	210 lbs	2	Ohio State
+Thomas Davis Sr.	Washington	LB	58	37	"6' 1"""	235 lbs	16	Georgia
+Tim Settle	Washington	DT	97	23	"6' 3"""	308 lbs	3	Virginia Tech
+Tress Way	Washington	P	5	30	"6' 1"""	220 lbs	7	Oklahoma
+Troy Apke	Washington	S	30	25	"6' 1"""	205 lbs	3	Penn State
+Wes Martin	Washington	G	67	24	"6' 3"""	315 lbs	2	Indiana
+Wes Schweitzer	Washington	G	71	27	"6' 4"""	300 lbs	5	San Jose State
